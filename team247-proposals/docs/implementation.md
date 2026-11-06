@@ -1,5 +1,15 @@
 # 实现说明 / Implementation Notes
 
+## 两版重设计 / Motion-led redesigns
+
+`a.html` 是实时 WebGL 光影的分章提案；`b.html` 是动态字体与问题工作台。两版共享 `content.js` 的完整中文与英文内容，均有暂停动效与减少动画适配。`designs.html` 提供两个版本的独立入口。
+
+`a.html` is a cinematic, chapter-based proposal with real-time WebGL. `b.html` is a kinetic-type, question-led workbench. Both share the complete bilingual proposal data, with motion controls and reduced-motion support. `designs.html` links to both.
+
+新增实际依赖为 `vendor/three.module.min.js`（Three.js 0.160.1，A 版）与 `vendor/anime.umd.min.js`（Anime.js 4.2.2，A/B），MIT 许可证一并存入 vendor。来源、版本校验和选型见 [重设计参考](redesign-references.md)。下文的“无运行时开源库”仅描述保留的原版 `index.html`。
+
+The new dependencies are pinned Three.js 0.160.1 (A) and Anime.js 4.2.2 (A/B), with MIT notices in `vendor/`. See [redesign references](redesign-references.md). Statements below about no runtime libraries apply only to the retained original `index.html`.
+
 ## 网站与内容 / Site and content
 
 本项目是用于阅读和讨论的静态产品提案，不是三个拟议产品的生产系统。首页提供三个方向入口，每个方向包含概念图、互动示例、机制与验证图表，以及八项完整提案回答。中文默认，英文覆盖页面内容、正文和交互文字。
