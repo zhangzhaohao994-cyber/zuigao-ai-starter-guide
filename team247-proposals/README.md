@@ -12,6 +12,17 @@ A bilingual, interactive product proposal: original concept imagery, hands-on ex
 | 02 · 行业 Agent / Industry agents | 专业资料、内容生产与商务工作流。Domain knowledge, professional content, and business workflows. |
 | 03 · 人生游戏 / Personal visual novels | 讲述自己的故事，生成、游玩与分享视觉小说。Tell a personal story, then create, play, and share a visual novel. |
 
+## 两个全新动态版本 / Two new motion-led designs
+
+- **[A · 流动的数字展览 / Liquid Narrative](https://zhangzhaohao994-cyber.github.io/zuigao-ai-starter-guide/team247-proposals/a.html)** — 深色实时光影与分章叙事 / cinematic real-time light and narrative chapters.
+- **[B · 创意工作台 / Ideas in Play](https://zhangzhaohao994-cyber.github.io/zuigao-ai-starter-guide/team247-proposals/b.html)** — 高对比动态字体与问题驱动探索 / kinetic type and question-led exploration.
+- [两版选择页 / Compare the designs](https://zhangzhaohao994-cyber.github.io/zuigao-ai-starter-guide/team247-proposals/designs.html)
+- [动效参考、固定版本和许可证 / Motion references and licenses](docs/redesign-references.md)
+
+两版保留同一份完整中英文提案，内容入口和阅读顺序重新设计。A 使用 Three.js 与 Anime.js，WebGL 不可用时切换为动态 Canvas2D；B 使用 Anime.js。依赖与 MIT 许可证随站点保存于 `vendor/`，不会依赖运行时 CDN。原版保留在 `index.html`。
+
+Both redesigns retain the complete bilingual proposals with different structures and reading paths. A uses Three.js and Anime.js; B uses Anime.js. Pinned libraries and MIT notices are vendored locally. The previous version remains at `index.html`.
+
 ## 阅读 / Read
 
 - [完整中文提案 / Full Chinese proposals](docs/proposals.zh.md)
@@ -46,7 +57,7 @@ python3 -m http.server 8747
 
 无需安装依赖或构建。使用静态 HTML、CSS、SVG、图片与 JavaScript；可直接由 GitHub Pages 托管。
 
-No dependency installation or build step is required. The site uses static HTML, CSS, SVG, images, and JavaScript and can be hosted directly on GitHub Pages.
+No dependency installation or build step is required. The site uses static HTML, CSS, SVG, images, JavaScript, and locally bundled motion libraries and can be hosted directly on GitHub Pages.
 
 ## 文件 / Files
 
