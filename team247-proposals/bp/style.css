@@ -13,3 +13,5 @@
 @media print{html[lang=en] .sheet h1{font-size:23pt}html[lang=en] .prose{font-size:9pt;line-height:1.7}html[lang=en] .sheet .prose table{font-size:7.5pt;line-height:1.5}}
 h1[tabindex="-1"]:focus-visible{outline:none}
 @media screen and (max-width:600px){.table-wrap::after{content:'↔ 左右滑动查看完整表格';display:block;position:sticky;left:0;padding:6px 10px;font-size:10px;color:var(--muted);background:#f4f6f8;line-height:1.5}html[lang=en] .table-wrap::after{content:'↔ Scroll sideways to see all columns'}.model-detail .table-wrap::after{display:none}}
+/* Two-column financial summaries fit the reading area on phones. */
+.table-wrap:has(th:nth-child(2):last-child) table{min-width:0}.table-wrap:has(th:nth-child(2):last-child) th,.table-wrap:has(th:nth-child(2):last-child) td{min-width:0}.table-wrap:has(th:nth-child(2):last-child)::after{display:none}
