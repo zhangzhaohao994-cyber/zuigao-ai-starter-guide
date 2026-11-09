@@ -19,9 +19,9 @@ A bilingual, interactive product proposal: original concept imagery, hands-on ex
 - [两版选择页 / Compare the designs](https://zhangzhaohao994-cyber.github.io/zuigao-ai-starter-guide/team247-proposals/designs.html)
 - [动效参考、固定版本和许可证 / Motion references and licenses](docs/redesign-references.md)
 
-两版保留同一份完整中英文提案，内容入口和阅读顺序重新设计。A 使用 Three.js 与 Anime.js，WebGL 不可用时切换为动态 Canvas2D；B 使用 Anime.js。依赖与 MIT 许可证随站点保存于 `vendor/`，不会依赖运行时 CDN。原版保留在 `index.html`。
+两版保留同一份完整中英文提案，内容入口和阅读顺序重新设计。A 使用 Three.js 与 Anime.js，WebGL 不可用时切换为动态 Canvas2D；B 使用 Anime.js。依赖与 MIT 许可证随站点保存于 `vendor/`，不会依赖运行时 CDN。原版保留在 `concept.html`。
 
-Both redesigns retain the complete bilingual proposals with different structures and reading paths. A uses Three.js and Anime.js; B uses Anime.js. Pinned libraries and MIT notices are vendored locally. The previous version remains at `index.html`.
+Both redesigns retain the complete bilingual proposals with different structures and reading paths. A uses Three.js and Anime.js; B uses Anime.js. Pinned libraries and MIT notices are vendored locally. The previous version remains at `concept.html`.
 
 ## 阅读 / Read
 
@@ -71,3 +71,8 @@ No dependency installation or build step is required. The site uses static HTML,
 产品功能、渠道、定价、授权和传播效果仍需独立验证。完整提案保留了这些假设及所需支持。
 
 Features, distribution, pricing, rights, and growth remain subject to independent validation. The full proposals preserve those assumptions and resource needs.
+
+## 正式首页 · 2026-11-09
+
+网站根路径 `index.html` 现为中文商业提案首页，包含三个方向、可切换的财务情景、验证路线与完整研究入口。`review.html` 为完整V5，`concept.html` 保留原始双语提案，A/B视觉版本和App Demo继续可用。运行 `最高_Team247提案深化_20261109/build_home.py` 可从现有财务JSON重建首页。
+
