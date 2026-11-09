@@ -1,4 +1,4 @@
-# Page index and review coverage — V6
+# Page index and review coverage — V7
 
 ## 01 Personal AI for everyday life
 | Page | Title | Review requirements |
@@ -11,9 +11,9 @@
 | 06 | Competition & alternatives | R1, R4 |
 | 07 | Business model & pricing | R2 |
 | 08 | Unit economics & viability | R1, R2 |
-| 09 | The first 1,000 & growth stages | R3 |
+| 09 | First 100,000 paying users | R3 |
 | 10 | CNY 1 referrals & the growth model | R3 |
-| 11 | Pricing & scale scenarios | R1, R5 |
+| 11 | 90-day economics & scale targets | R1, R5 |
 | 12 | Resources & cash planning | R1 |
 | 13 | 90-day milestones | R3, R4 |
 | 14 | Metrics & acceptance criteria | R4, R5 |
@@ -35,7 +35,7 @@
 | 08 | Unit economics & viability | R1, R2 |
 | 09 | Acquiring the first customers | R3 |
 | 10 | Channels & sales process | R3 |
-| 11 | Financial scenarios | R1, R5 |
+| 11 | 90-day economics & scale targets | R1, R5 |
 | 12 | Resources & cash planning | R1 |
 | 13 | 90-day milestones | R3, R4 |
 | 14 | Metrics & acceptance criteria | R4, R5 |
@@ -57,7 +57,7 @@
 | 08 | Unit economics & viability | R1, R2 |
 | 09 | Acquiring the first customers | R3 |
 | 10 | Channels & sales process | R3 |
-| 11 | Financial scenarios | R1, R5 |
+| 11 | 90-day economics & scale targets | R1, R5 |
 | 12 | Resources & cash planning | R1 |
 | 13 | 90-day milestones | R3, R4 |
 | 14 | Metrics & acceptance criteria | R4, R5 |

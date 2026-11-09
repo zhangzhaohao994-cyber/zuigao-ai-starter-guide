@@ -1,0 +1,207 @@
+{
+  "currency": "CNY",
+  "basis": "Unvalidated operating targets; reserves are not final tax settlements",
+  "scenarios": [
+    {
+      "project": "persona",
+      "scenario": "保守",
+      "paid_customers": 30000,
+      "revenue": 30000,
+      "costs": {
+        "build_and_operations": 26000,
+        "service_allowance": 3000.0,
+        "payment_tax_refund_reserve": 1200.0,
+        "seed_and_content_marketing": 1500.0,
+        "capped_referral_pool": 1500.0
+      },
+      "total_cost": 33200.0,
+      "target_surplus": -3200.0,
+      "unit_contribution": 0.76,
+      "break_even": 34211,
+      "period": "90-day launch target"
+    },
+    {
+      "project": "persona",
+      "scenario": "目标",
+      "paid_customers": 100000,
+      "revenue": 100000,
+      "costs": {
+        "build_and_operations": 26000,
+        "service_allowance": 10000.0,
+        "payment_tax_refund_reserve": 4000.0,
+        "seed_and_content_marketing": 5000.0,
+        "capped_referral_pool": 5000.0
+      },
+      "total_cost": 50000.0,
+      "target_surplus": 50000.0,
+      "unit_contribution": 0.76,
+      "break_even": 34211,
+      "period": "90-day launch target"
+    },
+    {
+      "project": "persona",
+      "scenario": "冲刺",
+      "paid_customers": 200000,
+      "revenue": 200000,
+      "costs": {
+        "build_and_operations": 26000,
+        "service_allowance": 20000.0,
+        "payment_tax_refund_reserve": 8000.0,
+        "seed_and_content_marketing": 10000.0,
+        "capped_referral_pool": 10000.0
+      },
+      "total_cost": 74000.0,
+      "target_surplus": 126000.0,
+      "unit_contribution": 0.76,
+      "break_even": 34211,
+      "period": "90-day launch target"
+    },
+    {
+      "project": "persona",
+      "scenario": "百万阶段",
+      "paid_customers": 1000000,
+      "revenue": 1000000,
+      "costs": {
+        "build_and_operations": 120000,
+        "service_allowance": 100000.0,
+        "payment_tax_refund_reserve": 40000.0,
+        "seed_and_content_marketing": 50000.0,
+        "capped_referral_pool": 50000.0
+      },
+      "total_cost": 360000.0,
+      "target_surplus": 640000.0,
+      "unit_contribution": 0.76,
+      "break_even": 157895,
+      "period": "later-stage standalone capacity illustration"
+    },
+    {
+      "project": "persona",
+      "scenario": "千万阶段",
+      "paid_customers": 10000000,
+      "revenue": 10000000,
+      "costs": {
+        "build_and_operations": 1000000,
+        "service_allowance": 1000000.0,
+        "payment_tax_refund_reserve": 400000.0,
+        "seed_and_content_marketing": 500000.0,
+        "capped_referral_pool": 500000.0
+      },
+      "total_cost": 3400000.0,
+      "target_surplus": 6600000.0,
+      "unit_contribution": 0.76,
+      "break_even": 1315790,
+      "period": "later-stage standalone capacity illustration"
+    },
+    {
+      "project": "industry",
+      "scenario": "保守",
+      "paid_customers": 4,
+      "revenue": 92800,
+      "costs": {
+        "implementation_delivery": 19200,
+        "subscription_delivery": 3600,
+        "payment_tax_refund_reserve": 7424.0,
+        "sales_marketing": 20000,
+        "build": 40000,
+        "operations": 18000
+      },
+      "total_cost": 108224.0,
+      "target_surplus": -15424.0,
+      "subscription_customer_months": 2,
+      "period": "90 days after resource approval"
+    },
+    {
+      "project": "industry",
+      "scenario": "目标",
+      "paid_customers": 12,
+      "revenue": 292000,
+      "costs": {
+        "implementation_delivery": 57600,
+        "subscription_delivery": 14400,
+        "payment_tax_refund_reserve": 23360.0,
+        "sales_marketing": 36000,
+        "build": 40000,
+        "operations": 18000
+      },
+      "total_cost": 189360.0,
+      "target_surplus": 102640.0,
+      "subscription_customer_months": 8,
+      "period": "90 days after resource approval"
+    },
+    {
+      "project": "industry",
+      "scenario": "冲刺",
+      "paid_customers": 20,
+      "revenue": 504800,
+      "costs": {
+        "implementation_delivery": 96000,
+        "subscription_delivery": 28800,
+        "payment_tax_refund_reserve": 40384.0,
+        "sales_marketing": 60000,
+        "build": 40000,
+        "operations": 24000
+      },
+      "total_cost": 289184.0,
+      "target_surplus": 215616.0,
+      "subscription_customer_months": 16,
+      "period": "90 days after resource approval"
+    },
+    {
+      "project": "story",
+      "scenario": "保守",
+      "paid_customers": 200,
+      "revenue": 59800,
+      "costs": {
+        "paid_work_delivery": 16000,
+        "payment_tax_refund_reserve": 4784.0,
+        "marketing": 20000,
+        "free_samples": 1000,
+        "build": 30000,
+        "operations": 15000
+      },
+      "total_cost": 86784.0,
+      "target_surplus": -26984.0,
+      "standard_orders": 160,
+      "premium_orders": 40,
+      "period": "90-day selling and delivery window"
+    },
+    {
+      "project": "story",
+      "scenario": "目标",
+      "paid_customers": 1000,
+      "revenue": 299000,
+      "costs": {
+        "paid_work_delivery": 80000,
+        "payment_tax_refund_reserve": 23920.0,
+        "marketing": 40000,
+        "free_samples": 2000,
+        "build": 30000,
+        "operations": 15000
+      },
+      "total_cost": 190920.0,
+      "target_surplus": 108080.0,
+      "standard_orders": 800,
+      "premium_orders": 200,
+      "period": "90-day selling and delivery window"
+    },
+    {
+      "project": "story",
+      "scenario": "冲刺",
+      "paid_customers": 3000,
+      "revenue": 897000,
+      "costs": {
+        "paid_work_delivery": 240000,
+        "payment_tax_refund_reserve": 71760.0,
+        "marketing": 100000,
+        "free_samples": 6000,
+        "build": 30000,
+        "operations": 30000
+      },
+      "total_cost": 477760.0,
+      "target_surplus": 419240.0,
+      "standard_orders": 2400,
+      "premium_orders": 600,
+      "period": "90-day selling and delivery window"
+    }
+  ]
+}

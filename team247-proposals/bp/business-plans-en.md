@@ -1,4 +1,4 @@
-# Team247 | Three business plans — V6
+# Team247 | Three business plans — V7
 
 Prepared by 最高. 2026-11-09. All prices, targets and budgets are planning assumptions.
 
@@ -8,21 +8,14 @@ Prepared by 最高. 2026-11-09. All prices, targets and budgets are planning ass
 
 ## Page 01 | Executive summary & ambition
 
-The ambition is a useful personal AI assistant for a mass audience. 1,000, 10,000 and 100,000 users are stage targets; reminders are one capability.
+Target 100,000 genuine paying users in 90 days, stretch to 200,000, then pursue one million and ten million.
 
-### Product ambition
-I want to build a personal AI that ordinary people can use over time: understand requests, work with documents, find information, form plans, remember preferences the user chooses to retain, and help complete tasks within authorized limits. Becoming a widely used, everyday application is the long-term ambition, not a claim of an established market position.
+### Commercial objective
+An accessible CNY 1 entry offer for a useful personal AI. 100,000 unique payers × 1 produces 100,000 revenue. The full economic budget is capped at 50,000, targeting 50,000 surplus. At 200,000 payers, revenue is 200,000, budget 74,000 and target surplus 126,000. These are operating goals, not measured sales.
 
-| Item | Proposal for discussion |
-| --- | --- |
-| Audience | People with recurring needs in life, study and work |
-| Growth stages | 1,000 → 10,000 → 100,000 genuinely activated users |
-| Pricing hypotheses | CNY 1/month; CNY 10/month; or CNY 1 in month one, then 10/month |
-| Acquisition concept | A one-time CNY 1 reward to the direct inviter for each genuine new payer's first eligible payment |
-| Key evidence | Usefulness, retention, payment, referral coefficient and unit cost |
-| Technical position | Capabilities, platform, models, price and investment to be assessed jointly with the team |
+The entry offer supplies a current-version basic assistant license, local task/note functions and 20 capped cloud-text tasks. Ongoing voice, search, long documents and external tools are priced separately. CNY 1 does not include unlimited computation. If useful experience requires higher cloud costs, revise price or funding. A later 9.9/month upgrade may be tested but contributes no assumed revenue here.
 
-**Ten customers or 100 users are early checkpoints, not a ceiling on ambition.** I will drive the product vision, market work and validation. An architecture that has not been discussed is not a team-approved implementation plan.
+**The 50,000 surplus requires team acceptance of a capped referral experiment, total service cost ≤0.10 per payer, all marketing ≤0.10 per payer, and build/operations ≤26,000.** Returning CNY 1 for every new payer cannot produce this result.
 
 
 ## Page 02 | Customers & the problem
@@ -68,44 +61,30 @@ Display an action as completed only after it succeeds. Tool failures should show
 
 ## Page 04 | MVP & delivery scope
 
-Keep the mass-market ambition, begin with extensible task capabilities, and agree the product and engineering boundaries with the team.
+The CNY 1 offer must deliver useful basic assistance with explicit, funded cloud allowances.
 
-### Suggested first capability set — for joint selection
-Text and limited voice interaction; document summaries with sources; drafts and plans; user-confirmed personal records; and one verifiable type of task execution. Character and tone remain configurable. The first release does not promise every system permission or complex automation to everyone.
+### Launch specification — subject to joint quotation and engineering review
+Current-version basic license; local lists, plans and records; 20 short cloud-text tasks; task status, failures, deletion and export. Confirm fulfillment and revenue allocation between the delivered license and attached cloud service before collecting payment. Reserve the full service allowance even for late entrants or unused credits.
 
-| Candidate route | What it can test first | Team assessment needed |
-| --- | --- | --- |
-| Web / lightweight product | Sharing, task completion, price and channels | Background tasks, notifications, payment and mobile limits |
-| Native / cross-platform app | Device capabilities and repeated everyday use | Store rules, permissions, build and maintenance effort |
-| Staged combination | Core value first, then deeper device integration | Migration, account/data continuity and duplicate work |
+Service ceiling per payer: CNY 0.10 = model calls 0.06 + storage/network 0.02 + retries/support 0.02. Across 20 tasks, average total cost must be ≤0.005/task. Measure context/output limits, routing and caching. If supplier cost or quality cannot support this, revise the task design, price or funding before selling. Allowances and top-ups must be understandable to ordinary users.
 
-### Validate capabilities before choosing technology labels
-At least one set of real tasks must go from input to usable output. Include failure states, cost logs, data deletion and permission explanations. Test notifications and external actions separately. If the CNY 1 tier cannot support its cost, adjust allowances or the business model rather than quietly reducing the product to an alarm.
-
-### Joint decision
-I can prototype with AI. I want the team to assess reliability, performance, deployment and scaling with me; a personal prototype is not proof of readiness to serve 100,000 people.
+Build ceiling: 100 engineering hours × 120 + 75 product hours × 80 = 18,000. Ninety-day operations: 100 hours × 80 = 8,000. This depends on reuse of prototypes/components; disclose and re-estimate extra work rather than excluding it.
 
 Sources: [S13 Apple App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/); [S16 Apple Intelligence developer introduction](https://developer.apple.com/cn/apple-intelligence/)
 
 
 ## Page 05 | Market sizing & evidence
 
-Set targets at 1,000 / 10,000 / 100,000, while reporting activation, payment and continued use separately.
+100,000 / 200,000 mean unique paying users. One million and ten million are later strategic stages.
 
-### Target definition
-The stages refer to **genuinely activated users**: independently deduplicated people who complete at least one core task with a usable result. Track registrations, downloads, activation, payment and monthly activity separately. Downloads are not payers.
-
-| Activation target | Payers at an assumed 20% conversion | What the stage must demonstrate |
+| Stage | User and revenue definition | Evidence required |
 | --- | --- | --- |
-| 1,000 | 200 | Useful tasks, real payments and a functioning referral process |
-| 10,000 | 2,000 | Repeatable acquisition, manageable retention/cost, limited manual intervention |
-| 100,000 | 20,000 | Multiple channels, capacity, unit economics and stable operations |
+| 90-day target: 100,000 | Real payers; CNY 100,000 revenue | Distribution, low-cost fulfillment and controlled rewards |
+| 90-day stretch: 200,000 | Real payers; CNY 200,000 revenue | Scalable channels and stable capacity |
+| One-million stage | One million payers; CNY one million entry sales | Re-estimate platform, staffing, settlement and acquisition |
+| Ten-million stage | Ten million payers; CNY ten million entry sales | Broad distribution, lasting value and professional operations |
 
-### Market context versus growth targets
-CNNIC's official indexed 2026 summary reports more than 700 million AI users in the first half of 2026. This indicates broad adoption, not an obtainable market share. The relevant paying segment is not yet measured. These stages are operating targets, not external forecasts.
-
-### If the team wants targets to mean paying users
-We can instead target 1,000 / 10,000 / 100,000 payers, but activation, funding and capacity must be recalculated together. At 20% conversion, 1,000 payers require 5,000 activated users. The two definitions cannot be mixed.
+No date is promised for later stages. Their cost figures are standalone capacity illustrations, not quotations. Macro AI adoption does not supply this project's customers. At 40% activated-to-paid conversion, 100,000 payers require 250,000 activations; at 50% visit-to-activation, that requires 500,000 unique visits.
 
 Sources: [S1 CNNIC: 2026 generative AI application report](https://www2.cnnic.cn/n4/2026/1008/c326-11703.html)
 
@@ -132,186 +111,127 @@ Sources: [S3 Character.AI subscription page](https://character.ai/subscribe); [S
 
 ## Page 07 | Business model & pricing
 
-CNY 1 and CNY 10 remain pricing hypotheses. Discuss the first-payment reward separately from recurring subscriptions.
+Count actual CNY 1 entry sales; later subscriptions do not fill the target profit gap.
 
-| Model | User payment | Direct-referral reward | Condition to test |
-| --- | --- | --- | --- |
-| A — accessible entry | CNY 1/month | CNY 1 once per genuine new payer's eligible first payment | Very low usage cost and sufficient renewal contribution |
-| B — low-cost standard | CNY 10/month | CNY 1 once on the first payment | Enough product value for purchase and retention |
-| C — first-month trial | CNY 1 first month, then 10/month | CNY 1 once on the first payment | Renewal at the full price after the initial experience |
+### Price and entitlement
+CNY 1 once for the current basic version and capped cloud allowances, without unlimited voice or indefinite unlimited service. Test an enhanced 9.9/month tier separately with its own scope, renewal and costs; its revenue is excluded. A 1/month alternative remains discussable, but must use actual paying customer-months rather than assuming everyone pays for three months.
 
-### Interpretation of the proposed mechanism
-A invites B. B first pays CNY 1 for the actual service; A receives a one-time CNY 1 reward. A may also invite C and D, earning separate rewards for their eligible first payments. People invited by B do not generate another tier of commission for A. The base model excludes a recurring CNY 1 reward; that is discussed separately below.
+### Referral decision to make together
+The target case funds the first 5,000 eligible direct referred first payments at CNY 1 each: a 5,000 total pool. Stop at the cap or approve a new batch; promise no cash outside the pool. Disclose eligibility, remaining capacity, refund observation and settlement before the campaign. Multiple valid direct referrals can earn rewards without multiple commission levels.
 
-### Service and operating rules
-Pricing must specify model, voice, file and task allowances, selected using measured costs and team input. Unlimited usage is not assumed. Rewards are proposed to settle after transaction validation and the refund observation period; instant receipt or unrestricted withdrawals are not promised.
-
-### If CNY 1 is returned every month
-For a CNY 1/month referred customer, the entire subscription's gross revenue would continue to be paid out while the platform still incurs costs. That subscription cannot fund its own service. A separate, identified revenue/subsidy source or a different reward amount/frequency would be required.
+This changes the original all-payments-returned concept and needs team agreement. Keeping a full CNY 1 reward on every CNY 1 purchase requires another identified revenue source. It cannot simultaneously deliver 100,000 revenue, 50,000 total costs and 50,000 profit.
 
 Sources: [S13 Apple App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/); [S14 Ministry of Justice: Regulations on Prohibition of Pyramid Selling](https://xzfg.moj.gov.cn/front/law/detail?LawID=148)
 
 
 ## Page 08 | Unit economics & viability
 
-Returning the full first CNY 1 leaves the platform funding the real cost of serving the acquired customer.
+At 100,000 payers, target cost is CNY 0.50 each: 0.24 variable and 0.26 allocated fixed cost.
 
-| Per new referred payer, CNY | A: 1/month | B: 10/month | C: first month 1 |
-| --- | --- | --- | --- |
-| First-month gross revenue | 1.00 | 10.00 | 1.00 |
-| One-time direct reward | 1.00 | 1.00 | 1.00 |
-| Processing 1% + refund reserve 3% | 0.04 | 0.40 | 0.04 |
-| Assumed paid-user monthly service cost | 0.40 | 2.00 | 2.00 |
-| First-month direct contribution | −0.44 | 6.60 | −2.04 |
+| Cost item | CNY budget |
+| --- | --- |
+| Build and operating labor | 26,000.00 |
+| Models and infrastructure allowances | 10,000.00 |
+| Processing and tax/refund reserve | 4,000.00 |
+| Seed/content marketing | 5,000.00 |
+| Capped referral reward pool | 5,000.00 |
 
-CNY 0.40 and 2 are target costs to measure, not supplier quotations. The CNY 1 tier needs allowances compatible with its cost. A provisional split of 0.40 is model/tools 0.25, infrastructure 0.10 and support 0.05; the CNY 2 split is 1.50, 0.30 and 0.20. Each non-paying activated user additionally incurs an assumed CNY 0.10 for one capped trial month, not unlimited free service.
+100,000 revenue − 10,000 service − 4,000 processing/tax/refund reserve − 5,000 seed marketing − 5,000 rewards − 26,000 build/operations = 50,000 target surplus. Processing assumes 1%, combined tax/refund reserve 3%; neither is a quote or tax opinion. If a selected store charges commission, replace the channel assumption.
 
-### Retention and channel sensitivity
-A later paid month without a referral reward contributes 0.56 for A or 7.60 for B/C, before fixed costs, free trials and acquisition. If B's service cost rises to CNY 8, first-payment referred contribution falls to 0.60. With an applicable 30% channel deduction plus a 3% reserve, it is 3.70 for B and −2.33 for C.
+Break-even = 26,000 / 0.76, rounded up to 34,211 payers. At 0.40 service cost per payer, target surplus falls to 20,000. With a CNY 1 reward for every payer, rewards rise from 5,000 to 100,000 and surplus becomes −45,000. An additional applicable 30% store fee would reduce surplus to 20,000 if all else stayed constant.
 
-### A low entry price does not eliminate expenditure
-If all 1,000 new customers pay CNY 1 and all are referred, rewards total CNY 1,000, plus CNY 40 processing/reserve and service costs. Cap the experiment's funding before expanding it.
+Twenty tasks each imply two million tasks. The 0.06/payer model ceiling means 6,000 total model budget. Suppliers bill input/output separately: measure tokens, retries, cache hits and logs. Do not claim this cost has been achieved before load and quality testing.
+
+Tencent TokenHub S17 (checked 2026-11-09) lists Hy3 at CNY 1/million input tokens and 4/million output tokens. Budget illustration only: 1,000 input + 500 output tokens costs 0.003/task, or 0.06 for 20 tasks. Actual context, quality, retries and model selection still require validation.
+
+Sources: [S17 Tencent TokenHub pricing](https://cloud.tencent.com/document/product/1823/130055/)
 
 
-## Page 09 | The first 1,000 & growth stages
+## Page 09 | First 100,000 paying users
 
-The first 1,000 need credible seed channels. Use measured referral performance to plan the next tenfold stage.
+The 90-day target needs 500,000 unique visits; a small seed group alone does not establish this reach.
 
-### From seed users to the first stage — planning assumptions
-Use 100–200 seed users to test product quality and reward rules, then aim for 1,000 genuinely activated users. This answers the request for a concrete initial cohort without limiting the long-term ambition.
-
-| Proposed seed channel | First-stage activations | Required action |
+| Channel assumption | Unique visits | Execution |
 | --- | --- | --- |
-| Five creator / community collaborations | 100 each; 500 total | Verify 20 prospects, demonstrate real task results and obtain trial agreement |
-| Product demonstrations and content | 200 | Provide a usable experience and source attribution |
-| Consented direct invitations and user sharing | 300 | Record task activation and eligible payments; deduplicate and detect abuse |
+| 50 creator/community entries | 50 × 6,000 = 300,000 | 200 prospects → 100 substantive discussions → 50 agreements, each with demonstration and attribution |
+| Owned/joint task demonstrations | 100,000 | 100 task demonstrations averaging 1,000 actual visits, not video views |
+| User sharing and search discovery | 100,000 | Share useful outputs; remove overlap, self-referrals and invalid payments |
+| Total | 500,000 | 50% activation × 40% payment = 100,000 |
 
-These channels are to be built. Existing followers or partner commitments have not been verified. Recalculate using actual sources rather than presenting candidates as signed partners.
-
-### Users and payments
-At 20% activation-to-payment conversion, 1,000 activations produce 200 payers. Assuming 70% are eligible referred payers, rewards total CNY 140. This means 140 qualifying first payments, not only 140 people seeing a shared link.
-
-### Funnel and acquisition effort
-Twenty partner prospects → ten substantive discussions → five agreed trials, using assumed 50% and 50% conversions. Five partner entries × 500 unique visits × 20% activation = 500 users; content generates 1,000 visits × 20% = 200; direct invitations and sharing generate 1,500 × 20% = 300. Total: 5,000 deduplicated visits → 1,000 activations → 200 payers. Attribute each person to their first valid source. None of these traffic volumes is committed.
-
-The seed cash budget is CNY 1,000, implying a CNY 0.20-per-visit budget constraint that must be tested, plus CNY 140 rewards. Cash CAC = (1,000 + 140) ÷ 200 = CNY 5.70 per new payer. If outreach, demonstrations and attribution take 20 hours × CNY 80 = 1,600, acquisition CAC including that labor is CNY 13.70. This labor is allocated within the CNY 3,000 monthly fixed operating budget; do not deduct it twice.
-
-Eligible referrals may originate in any of these channels. The 70% referred-payer assumption is a separate attribution dimension, not a claim that only the last channel supplies referred users.
-
-### Stage gates
-Before 1,000 → 10,000 → 100,000, reassess usage without incentives, retention, referred payments, consumption, capacity and funding. Set ambitious targets; let observed growth determine timing.
+No partnerships or traffic are confirmed. CNY 0.10 all-in marketing per payer requires substantial organic/owned distribution, not an assumption that 10,000 buys 100,000 customers. The 5,000 seed/content budget covers assets/tools, not unquoted creator placement fees. Recalculate for paid partners. Within 14 days, obtain at least ten actual channel agreements and attributable visit/payment evidence; otherwise disclose the reach gap and revise channels, timing or funding.
 
 
 ## Page 10 | CNY 1 referrals & the growth model
 
-A CNY 1 incentive may encourage sharing. Growth depends on the number of genuine new payers produced by each generation.
+Referrals are a capped growth experiment. The 100,000 goal needs both channel reach and measured sharing.
 
-### Referral formula
-**K = share of payers who share × unique invitees per sharer × invitation-to-activation rate × activation-to-payment rate.** The denominator is the current generation of payers; the output is next-generation new payers. Count each invitee once.
+### Two mechanisms, different results
+At 100,000 payers × CNY 1, rewarding every payer costs 100,000. Other costs of 45,000 produce a −45,000 result. Capping rewards at 5,000 produces a 50,000 total budget and 50,000 target surplus. Future financing does not turn a current loss into profit.
 
-| Scenario | Sharing | Unique invitees per sharer | Activation | Payment after activation | Paid referral coefficient K |
-| --- | --- | --- | --- | --- | --- |
-| Conservative | 30% | 3 | 40% | 20% | 0.072 |
-| Neutral | 50% | 5 | 50% | 30% | 0.375 |
-| Illustrative replacement condition | 100% | 5 | 50% | 40% | 1.000 |
-| Growth experiment | 70% | 8 | 60% | 40% | 1.344 |
+### Propagation and timing
+K = sharing participation × unique invitations × activation × payment. For example, 50% × 5 × 50% × 40% = 0.50; 80% × 8 × 50% × 40% = 1.28. Measure the latter; K may fall when incentives end. Separate incentivized and organic cohorts. The 500,000-visit funnel already includes sharing traffic: do not add the same referred users twice.
 
-### Interpretation
-K < 1 means successive referral generations decline without new seed acquisition. K = 1 approximately replaces the generation. K > 1 permits referral-led expansion under the assumptions. The highest value, 1.344, is an untested scenario, not measured performance.
-
-### Timing also matters
-A seven-day generation and a 30-day generation produce very different speeds at the same K. Overlapping networks, channel saturation, fake invitations, refunds and churn can reduce it. Do not promise “100,000 in a few days.” Report actual K, generation time, real retention and source mix at every stage.
-
-### Attribution and settlement
-Bind a direct link/code → complete a core task → genuine payment → refund observation and fraud review → record the reward → settle under agreed rules. The activity budget, per-person caps and withdrawal mechanism need team approval. This BP website does not take payments or operate a cashback program.
+Attribution → activation → genuine payment → refund observation → verification → record within the pool → settlement. Disclose pool balance/end conditions and review applicable channel rules. If the team retains full CNY 1 rewards for everyone, discuss a genuinely valuable CNY 10 product, sponsorship or other signed revenue; include none before it exists.
 
 
-## Page 11 | Pricing & scale scenarios
+## Page 11 | 90-day economics & scale targets
 
-Compare three prices across three cohort sizes to see whether growth also improves the economics.
+100,000 is the 90-day operating target; 200,000 is stretch. Later scale rows are standalone illustrations.
 
-All amounts in CNY.
+| Scenario / stage | Paying customers | Revenue | Total budget | Target economic surplus |
+| --- | --- | --- | --- | --- |
+| Conservative | 30,000 | 30,000.00 | 33,200.00 | -3,200.00 |
+| Target | 100,000 | 100,000.00 | 50,000.00 | 50,000.00 |
+| Stretch | 200,000 | 200,000.00 | 74,000.00 | 126,000.00 |
+| One-million stage | 1,000,000 | 1,000,000.00 | 360,000.00 | 640,000.00 |
+| Ten-million stage | 10,000,000 | 10,000,000.00 | 3,400,000.00 | 6,600,000.00 |
 
-| Activated cohort | Price model | Month-one revenue | First-payment rewards | Month-one economic result | 90-day cohort economic result |
-| --- | --- | --- | --- | --- | --- |
-| 1,000 | CNY 1/month | 200.00 | 140.00 | -4,108.00 | -9,974.72 |
-| 1,000 | CNY 10/month | 2,000.00 | 140.00 | -2,700.00 | -6,891.20 |
-| 1,000 | First month 1, then 10 | 200.00 | 140.00 | -4,428.00 | -8,619.20 |
-| 10,000 | CNY 1/month | 2,000.00 | 1,400.00 | -14,080.00 | -28,747.20 |
-| 10,000 | CNY 10/month | 20,000.00 | 1,400.00 | 0.00 | 2,088.00 |
-| 10,000 | First month 1, then 10 | 2,000.00 | 1,400.00 | -17,280.00 | -15,192.00 |
-| 100,000 | CNY 1/month | 20,000.00 | 14,000.00 | -70,800.00 | -117,472.00 |
-| 100,000 | CNY 10/month | 200,000.00 | 14,000.00 | 70,000.00 | 190,880.00 |
-| 100,000 | First month 1, then 10 | 20,000.00 | 14,000.00 | -102,800.00 | 18,080.00 |
-
-
-### Shared assumptions — not a forecast
-20% of activated users pay; 70% of new payers generate a one-time CNY 1 referral reward; monthly paid retention is 70%; free activated users incur only one capped CNY 0.10 trial month. Paid-user service costs are 0.40/month for A and 2/month for B/C. Processing is assumed at 1%, with a 3% refund reserve.
-
-Monthly fixed operating economic costs are CNY 3,000 / 8,000 / 30,000 by stage; seed acquisition cash is 1,000 / 5,000 / 30,000. The 90-day calculation follows one cohort, with N, 0.7N and 0.49N payers across the months. It adds no later cohorts. The three stages must not be summed into a quarterly forecast.
-
-### Result boundaries
-Economic results deduct service, rewards, processing/refund reserve, fixed operations and seed acquisition. **They exclude common product development, unknown taxes, release/compliance costs and additional app-store commissions.** Positive results are not project net profit. A CNY 1 model may require continuing subsidy; a CNY 10 model depends on actual payment and retention, not the spreadsheet alone.
-
-### If all targets mean payers
-For 1,000 payers at CNY 1, first-month revenue is 1,000. If all are referred, rewards are also 1,000. Deduct 40 for processing/reserve and 400 for service: direct contribution is −440 before fixed costs and acquisition. Define the user target precisely.
+### Basis of calculation
+This is a target-led operating plan. Prices, sales, conversion and cost ceilings remain untested. Economic surplus equals fulfilled revenue less the full economic budget, including paid labor, build, marketing, service, processing and tax/refund reserves. Reserves are not final tax settlements. Actual net profit depends on the operating entity, contracts and accounting. Unfulfilled prepayments are deferred rather than counted as profit.
+Later fixed build/operations placeholders are 120,000 at one million and one million at ten million, subject to fresh quotations. These are not 90-day promises or repeat revenue from the same users. The conservative case loses money, showing why reach and cost evidence are required.
 
 
 ## Page 12 | Resources & cash planning
 
-Joint planning must cover funding and staffing at each scale as well as the technical route.
+The target CNY 50,000 is the full economic budget, not server costs alone.
 
-| Hypothetical new cohort | Monthly fixed operating economic cost | Seed acquisition cash | Model C first-month shortfall* |
-| --- | --- | --- | --- |
-| 1,000 activated / 200 payers | CNY 3,000 | CNY 1,000 | CNY 4,428 |
-| 10,000 activated / 2,000 payers | CNY 8,000 | CNY 5,000 | CNY 17,280 |
-| 100,000 activated / 20,000 payers | CNY 30,000 | CNY 30,000 | CNY 102,800 |
+| Cost item | CNY budget |
+| --- | --- |
+| Build and operating labor | 26,000.00 |
+| Models and infrastructure allowances | 10,000.00 |
+| Processing and tax/refund reserve | 4,000.00 |
+| Seed/content marketing | 5,000.00 |
+| Capped referral reward pool | 5,000.00 |
 
-*Model C charges CNY 1 in month one, then 10/month. Shortfall is operating revenue less service, rewards, fees, fixed operations and acquisition, before development. Fixed cost includes labor valued economically; payment timing must still be separated. These figures do not establish the minimum bank balance required.
+### Funding
+Prefer to secure the full 50,000 budget rather than depend on immediate payment withdrawals. Retain refund reserves and unconsumed cloud-service liabilities. Illustrative monthly spending: 24,000 / 12,000 / 14,000. If 20,000 / 30,000 / 50,000 payments are settled, cumulative month-end balances are −4,000 / 14,000 / 50,000. This simplified month-end view excludes daily peaks and settlement holds; prepare a dated cash ledger.
 
-### Estimate construction before requesting quotations
-An existing prototype can support early tests. An illustrative 200–400 engineering hours × CNY 150 gives 30,000–60,000; 100–200 product hours × 80 adds 8,000–16,000. The total 38,000–76,000 is a range example, not an approved budget. Re-estimate after platform, payment, task integrations, review and store-release scope are chosen.
-
-### Scaling decisions
-Confirm the pricing model and measured task costs, then test peak concurrency and success rates. Approve the budget for each stage before expanding. Rewards create settlement obligations and timing gaps; identify funding and redemption limits before the campaign.
+### Approval gates
+Release 10,000 for the first 14 days to validate quality, cost and reach. The 50,000 target budget is an expansion cap, not automatic spending authority. The 18,000 build is already included. Native dual-platform development, paid review or store commissions require a revised budget.
 
 
 ## Page 13 | 90-day milestones
 
-Connect product and growth stages through evidence-based gates agreed with the team.
+Plan 20,000 / 30,000 / 50,000 new payers by month, revising when evidence falls short.
 
-| Stage | Product and market work | Evidence for progression |
+| Checkpoint | Target and action | Decision |
 | --- | --- | --- |
-| Weeks 1–2 | Agree core tasks, route and allowances; test product and reward rules with 100–200 seed users | Usefulness, costs and event tracking can be measured |
-| First 1,000 activated users | Controlled, attributable recruitment; test CNY 1 / 10 pricing and actual payments | Task completion, D7, payment and valid referrals |
-| Move toward 10,000 | Expand validated channels; observe mature renewals and generation K; load-test | Unit economics, retention and quality remain acceptable |
-| Move toward 100,000 | Multiple channels, monitoring, support and funding; scale in batches | Sustainable operation, fundable rewards and no major quality gaps |
-| Day-90 review | Report only achieved stages and mature observation periods | Set the next target, budget and scope |
+| D7 | Core tasks, payment and cost logs; 100 real-task users | Validate delivered value and task cost |
+| D14 | Ten agreed distribution entries; 1,000-payer validation batch | Check payments, refunds, cost and non-incentivized use |
+| D30 | 20,000 total payers in month one; build toward 50 entries | Recalculate from the real funnel if behind |
+| D60 | 30,000 additional, 50,000 cumulative | Stop expansion if quality, channels or costs fail |
+| D90 | 50,000 additional, 100,000 cumulative; 200,000 stretch | Reconcile fulfillment, reserves, surplus and next stage |
 
-### Dates are not promises made in advance
-The team can discuss a 90-day scale target, but 100,000 is not a guaranteed forecast without seed, K and generation-time evidence. Users not yet due to renew are not churned; late cohorts do not receive a fictional full 90-day observation.
-
-### My position
-I want to set a larger ambition and personally advance the experience, content, channels and feedback. I want to work out reliable execution with the team rather than privately guessing the entire implementation route.
+Channels have not established this pace. Schedule one-million and ten-million stages jointly after actual 100,000 payments, 30-day task retention and cost/quality evidence; a low price alone does not establish fast growth.
 
 
 ## Page 14 | Metrics & acceptance criteria
 
-Measure real tasks, sustained use and payment alongside growth, rather than counting reward-seeking accounts alone.
+Assess payment, fulfillment, cost and quality together rather than revenue alone.
 
-| Metric | Denominator / window | Initial threshold for discussion* |
-| --- | --- | --- |
-| Core-task success | Independent users who actually start a task | At least 80% get a usable result; record failures |
-| D7 task activity | Activated users whose day 7 has arrived | At least 30%; reward-page visits do not qualify |
-| First-payment conversion | Actual first payers / activated users | Test the 20% assumption separately by price |
-| Monthly paid renewal | Payers whose renewal date has arrived | Model assumes 70%; diagnose actual rates below 60% |
-| Referral K and generation time | Next-generation new payers produced by current payers | Measure weekly; K > 1 does not imply unlimited growth |
-| Variable cost | Models, tools, voice, support, processing and rewards | Within approved usage and subsidy limits |
+100,000 genuine payers; 500,000 visits; service ≤0.10/payer; all marketing ≤0.10/payer; 30-day task activity ≥25%; budget ≤50,000.
 
-*These are management hypotheses for team discussion. Separate price and free-allowance cohorts; do not use CNY 1 conversion as evidence for CNY 10.
-
-### Continue / adjust / pause
-If task value and retention work but economics do not, adjust price, allowances or rewards. If incentives generate registrations without use, revise the product and audience. Pause expansion when budget, refunds or invalid transactions exceed agreed limits. Resolve consequential permission or execution failures before using growth as justification to continue.
+These are proposed thresholds. Count unique valid payers, remove invalid/refunded transactions, and accept only usable confirmed outputs. Separate mature observation periods. Track source, reach, unique visits, actual payment, delivery, refunds and full cost. Downloads and intent are not revenue. Pause expansion and revise the plan if early pricing, quality or unit-cost gates fail.
 
 
 ## Page 15 | Risks & responses
@@ -378,29 +298,18 @@ Use sourced prospect records, interviews, payment/refund records, task logs, sup
 ### Evidence levels
 Public facts retain their sources and dates. Prices, counts and costs are planning assumptions. Formula outputs are calculations. Relationships, resources and technical capability remain to be validated. Recheck dynamic prices before launch. The BP and website are deliverables; commercial viability has not been established.
 
+New target gaps: accepted quotations, attributable reach, actual payment/refunds, full labor/API costs, delivery capacity and team resources. Page 11 economics V7 supersedes earlier figures; public sources do not establish project sales.
+
 Sources: [S1 CNNIC: 2026 generative AI application report](https://www2.cnnic.cn/n4/2026/1008/c326-11703.html); [S13 Apple App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/); [S14 Ministry of Justice: Regulations on Prohibition of Pyramid Selling](https://xzfg.moj.gov.cn/front/law/detail?LawID=148); [S15 Doubao official feature introduction](https://www.doubao.com/legal/feature_intro); [S16 Apple Intelligence developer introduction](https://developer.apple.com/cn/apple-intelligence/)
 
 
 ## Page 18 | Recommendation & decisions
 
-If the team wants a scalable consumer opportunity, prioritize discussion of personal AI and the first stage of investment.
+Organize resources around the larger commercial objective; target economic surplus of CNY 50,000.00 requires its assumptions to hold.
 
-### Proposed direction
-I want to work with the team on a personal AI assistant ordinary people can use, with 1,000 → 10,000 → 100,000 genuine users as staged goals. CNY 1/10 prices and referrals are starting models for joint revision.
+Target 100,000 payers in 90 days, stretch 200,000, then pursue one million and ten million. Agree the CNY 1 scope, capped rewards, distribution commitments and service cost; pursue 20,000/30,000/50,000 monthly payers.
 
-| Decision | Proposal supplied | Team judgment needed |
-| --- | --- | --- |
-| Product | Frequent tasks + personal continuity + optional identity | First core tasks and platform |
-| Price | 1/month, 10/month, or first month 1 then 10 | Allowances, value and pricing tests |
-| Acquisition | One CNY 1 reward per eligible direct new payer | Executable rules, budget and settlement |
-| Scale | 1,000 / 10,000 / 100,000 activations | Timing, staffing, capacity and gates |
-| Technical route | Lightweight web, app or staged combination | Engineering estimates, models and integrations |
-
-### First action
-Use 100–200 seed users to test tasks and mechanics, then pursue the first 1,000 activations. Expand only after checking real tasks, retention, cost and reward settlement. Without confirmed funding and engineering, do not claim readiness for 100,000 users.
-
-### Different strategic objectives
-For near-term payment and bounded delivery, the industry agent is more direct. For a mass-market product opportunity, this direction deserves priority discussion. Team feedback should identify the preferred objective, available resources and most uncertain assumptions so we can choose a route together.
+Confirm owners, available labor, technical route, budget, operating/tax entity, channels and stop gates together. I will drive product, market, content and validation. These are the business outcomes to pursue; orders, reach and costs still require evidence. Recalculate actual results when targets are missed rather than promising profit.
 
 
 # 02 AI agent for medical aesthetics
@@ -408,22 +317,13 @@ For near-term payment and bounded delivery, the industry agent is more direct. F
 
 ## Page 01 | Executive summary
 
-Charge for one clearly defined industry task, then validate review quality, total time saved and renewal.
+Target 12 implementations and eight service customer-months in 90 days: CNY 292,000 revenue and 102,640 economic surplus.
 
-| Business item | Pilot proposal |
-| --- | --- |
-| Product | Turn medical-aesthetics product material into sourced, reviewable copy and template assets |
-| Customer / payer | Institution or brand teams with recurring tasks, a reviewer and purchasing budget |
-| Pricing hypothesis | CNY 2,980 for a 14-day pilot; CNY 1,980/month after qualification |
-| Initial target | 200 prospects → 120 valid contacts → 36 meetings → 10 paid pilots |
-| Base 90-day revenue | CNY 37,720; three subscribers at period end; MRR 5,940 |
-| Economic result | CNY −24,188.80 including internal labor; no promise of quarterly payback |
+### Higher-value implementation
+CNY 19,800 per institution delivers one running source/content workflow: one brand/business line; at most 30 documents and 200 pages; versioned retrieval; ten individually reviewed outputs; three template graphics; roles/logs; training; baseline and acceptance report; and two in-scope revision rounds. Delivery is 14 days after complete inputs. Maintenance begins the next month at 6,800/month: three seats, 30 bounded drafts, ten graphics, 100 retrievals, eight operations hours and four professional sampling/issue hours. Customers retain final per-item review; quote excess work.
 
-### Original concept and initial scope
-Retain document retrieval, content production, institution research and business workflows. Start with traceable content delivery. Custom work for other industries is priced independently; hypothetical large contracts do not subsidize the standard-product forecast.
+Price the implementation, evidence and collaboration process, not a model interface alone. Qualify only customers with measurable labor/vendor-replacement value supporting 6,800/month. At an actual customer rate of 150/hour, at least 45.34 hours/month must be saved, or other evidenced replacement value supplied. Do not invent incremental sales to justify the price.
 
-### Decision requested
-Choose one customer group, one source set, a professional reviewer and capped pilot resources. I will advance customers, product and market work; integrations and engineering investment will be assessed jointly with the team.
 
 
 ## Page 02 | Customers & the problem
@@ -437,7 +337,7 @@ The user, reviewer and budget owner are different roles. All three must be ident
 | Business owner | Unpredictable labor and supplier delivery | See time, outputs and acceptance records | Is measurable value greater than price? |
 | Brand development | Inaccurate institution lists and slow research | Review 50 public target institutions and matching reasons | Are these qualified leads, without a sales guarantee? |
 
-A qualified pilot customer has recurring content tasks; can supply usable material; appoints both a reviewer and business owner; provides a workflow baseline; and can authorize CNY 2,980. General curiosity about AI is insufficient.
+A qualified pilot customer has recurring content tasks; can supply usable material; appoints both a reviewer and business owner; provides a workflow baseline; and can authorize CNY 19,800. General curiosity about AI is insufficient.
 
 ### Exclusions
 No actual task, no usable source material, no reviewer, no budget authority, or a request to replace clinical decisions means no paid pilot. Start by reconstructing a recent real task, not asking whether the prospect wants AI.
@@ -467,36 +367,24 @@ Sources: [S10 Medical-aesthetics advertising enforcement guidance](https://www.s
 
 ## Page 04 | MVP & delivery scope
 
-The CNY 2,980, 14-day pilot needs a finite scope and itemized acceptance.
+Higher pricing buys a complete implementation and bounded maintenance, not regulatory approval.
 
-The package covers one brand/business line, one source collection and one review process. Limit sources to 30 documents and 200 total pages; long scans, complex tables or additional products require assessment. Deliver: one versioned source index; ten sourced task outputs, each one piece of copy or a script; three template graphics; one Q&A and boundary-rule set; one training session; and a before/after time report. Allow up to two consolidated revision rounds within the agreed scope, not repeated changes of requirements.
+### Higher-value implementation
+CNY 19,800 per institution delivers one running source/content workflow: one brand/business line; at most 30 documents and 200 pages; versioned retrieval; ten individually reviewed outputs; three template graphics; roles/logs; training; baseline and acceptance report; and two in-scope revision rounds. Delivery is 14 days after complete inputs. Maintenance begins the next month at 6,800/month: three seats, 30 bounded drafts, ten graphics, 100 retrievals, eight operations hours and four professional sampling/issue hours. Customers retain final per-item review; quote excess work.
 
-Exclude automatic publishing, diagnosis, medical-record handling, unsupported efficacy promises, guarantees of advertising legality, autonomous sales, deep CRM integrations and custom films. Outputs are review drafts. The customer and qualified professionals must verify publication eligibility and applicable review procedures. Official medical-aesthetics and 2025 medical-advertising guidance support retaining evidence and review records; human checking is not regulatory approval. See S10 and S11.
+Price the implementation, evidence and collaboration process, not a model interface alone. Qualify only customers with measurable labor/vendor-replacement value supporting 6,800/month. At an actual customer rate of 150/hour, at least 45.34 hours/month must be saved, or other evidenced replacement value supplied. Do not invent incremental sales to justify the price.
 
-For a specific 500-character product brief, confirm model, market version, material date and intended use. Missing evidence is a gap, not permission to invent indications. Retrieve and attach sources, review unsupported statements, prepare template graphics, obtain business acceptance and archive the version and reviewer. Do not deliver fabricated patient cases or images represented as real treatment outcomes.
 
 Sources: [S10 Medical-aesthetics advertising enforcement guidance](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2023/art_d1b46dbc27214abcace53a0ec539f7bb.html); [S11 Medical advertising supervision guidance](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2025/art_cd56662cf13b4ad59eabfe31cb1122e1.html)
 
 
 ## Page 05 | Market sizing & evidence
 
-Size the serviceable segment through customer qualification and verified prospects, not all hospitals multiplied by a subscription price.
+Build 400 qualified purchasing prospects toward 12 implementations, rather than applying a price to all hospitals.
 
-**Public context:** China reported 38,710 hospitals, including 26,956 private hospitals, at year-end 2024. These are all-hospital counts, not medical-aesthetics providers. Clinics, outpatient facilities, institutional groups and brands also have different purchasing entities.
+Sources: 80 introductions to verify, 200 public institution/brand prospects and 120 partner candidates. 60% substantive contact → 240; 25% completed meeting → 60; 20% purchase → 12. Record every stage. Hospital statistics are not the medical-aesthetics buyer count.
 
-| Level | Definition for this project | Current evidence |
-| --- | --- | --- |
-| TAM | Target institutions/brands with content budget, source material and professional review | Segment total not verified |
-| SAM | Remote/local serviceable teams, typically 3–10 operations staff with recurring tasks | Requires directory screening and interviews |
-| Proposed prospect list | 40 introductions to confirm + 100 public listings + 60 channel candidates | 200 is a list-building target, not current customers |
-| 90-day contact | 200 × 60% valid contact = 120 | Requires substantive two-way response |
-| Delivery capacity | Base ten pilots; at most two active together | Constrained by 14 direct service hours per pilot |
-
-### Financial scale
-Ten pilots and four subscription customer-months generate CNY 37,720 in the base case. Pilot fees are not MRR; three period-end subscribers imply MRR of 5,940. Additional cash budget is 15,828.80; total economic expenditure is 61,908.80.
-
-### Evidence collection
-Verify 30 purchasing entities and their public sources in week one, then build toward 200. Deduplicate entities within the same purchasing group. Interest in AI is not qualified procurement demand.
+Prioritize 5–20-person operations/content teams, multiple channels/products, a named reviewer, real tasks and budget. Segment TAM remains unknown. Deliver 2 / 4 / 6 implementations by month. Service starts the next month: 2 + 6 = eight customer-months; period-end six subscribers is an assumption. Month-three customers are not credited with future renewals.
 
 Sources: [S2 National Health Commission: 2024 statistical bulletin](https://www.nhc.gov.cn/guihuaxxs/c100132/202512/9db8db5488a748c4b1e1068a4a8c4455.shtml?menuid=128)
 
@@ -523,160 +411,110 @@ Sources: [S6 Dify official pricing](https://dify.ai/pricing); [S7 Coze official 
 
 ## Page 07 | Business model & pricing
 
-Price pilots, subscriptions, public institution research and custom implementation separately.
+Customers pay 19,800 for implementation and 6,800/month from the following month; pricing remains unvalidated.
 
-| Offer hypothesis | Price / cycle | Scope and payment |
-| --- | --- | --- |
-| Content-workflow pilot | CNY 2,980 / 14 days | 50% at start, 50% on agreed acceptance; remediate or address unfulfilled scope under contract |
-| Standard subscription | CNY 1,980 / institution / month | Three seats, 30 text tasks, ten template graphics, 100 retrievals, up to one hour supplier professional review and four hours operations support; final review belongs to the customer |
-| Public institution research add-on | CNY 980 / batch | 50 deduplicated institution records, public business entry points and sample-check report; no bulk outreach or response/sales guarantee; excluded from base revenue |
-| Extra implementation | From CNY 3,000, after assessment | New source migration, templates or interfaces; quote effort and acceptance first |
-| Other-industry customization | Pricing experiment from CNY 19,800 | One workflow and one system interface; narrow or reprice if estimated total cost exceeds 11,880 |
+### Higher-value implementation
+CNY 19,800 per institution delivers one running source/content workflow: one brand/business line; at most 30 documents and 200 pages; versioned retrieval; ten individually reviewed outputs; three template graphics; roles/logs; training; baseline and acceptance report; and two in-scope revision rounds. Delivery is 14 days after complete inputs. Maintenance begins the next month at 6,800/month: three seats, 30 bounded drafts, ten graphics, 100 retrievals, eight operations hours and four professional sampling/issue hours. Customers retain final per-item review; quote excess work.
 
-The subscription's 30 drafts allow limited revision; they do not include complete supplier medical review of every item. One review hour covers sampling or consolidated questions. Full per-item review needs extra budget. Stop at allowance limits and notify the customer rather than charging automatically.
+Price the implementation, evidence and collaboration process, not a model interface alone. Qualify only customers with measurable labor/vendor-replacement value supporting 6,800/month. At an actual customer rate of 150/hour, at least 45.34 hours/month must be saved, or other evidenced replacement value supplied. Do not invent incremental sales to justify the price.
 
-CNY 19,800 is neither an established market price nor an accepted negotiation outcome. A 40% / 40% / 20% payment structure can be discussed for kickoff, working prototype and acceptance. Confirm interfaces, data permission, maintenance and scope changes first. Standard 90-day revenue excludes custom contracts; customization is not MRR.
-
-### Work back from customer ROI
-If a task falls from 90 to 45 minutes including review, 30 tasks save 22.5 hours/month. At CNY 80/hour, this is only 1,800, below the 1,980 fee. Time savings alone require at least 49.5 minutes saved per task, a higher actual hourly cost or more tasks. Other value must be measured, not filled in with assumed sales growth. Obtain each customer's baseline.
 
 
 ## Page 08 | Unit economics & viability
 
-Direct contribution is CNY 1,480.80 per pilot. Doubling delivery time can make the result after acquisition negative.
+Direct cost is CNY 4,800 per implementation and 1,800 per service month. Higher prices need customer value and delivery capacity.
 
-| Cost, CNY | 2,980 pilot | 1,980 subscription customer-month |
-| --- | --- | --- |
-| Product / operations | 12 hours × 80 = 960 | 4 hours × 80 = 320 |
-| Professional review | 2 hours × 150 = 300 | 1 hour × 150 = 150 |
-| Models / customer storage | 120 | 130 |
-| Direct service cost | 1,380 | 600 |
-| Processing 1% + loss reserve 3% | 119.20 | 79.20 |
-| Direct contribution | 1,480.80 | 1,300.80 |
+Implementation: 30 operations hours × 80 = 2,400; eight review hours × 150 = 1,200; models/deployment/design 1,200. Monthly service: eight operations hours × 80 + four review hours × 150 + 560 models/storage = 1,800. Reserve 8% of revenue for processing, taxes and refunds. Implementation contribution = 19,800 × 92% − 4,800 = 13,416; service contribution = 6,800 × 92% − 1,800 = 4,456.
 
-### Customer-value check
-Saving 45 minutes on each of 30 tasks at CNY 80/hour is worth 1,800, less than the monthly fee. At least 49.5 minutes per task, higher actual labor costs or more tasks are needed to justify purchase from time savings alone. Do not fill the gap with unproven incremental sales.
-
-### Sensitivity
-If pilot operations increase from 12 to 24 hours, contribution falls to 520.80. After full CAC of 880, the result is −359.20. At a reduced subscription price of 1,280 with unchanged service cost, monthly contribution is 628.80. Recurring common operations/maintenance of 7,000/month require six continuing subscribers, or eight when one-year construction amortization is included. The base case ends with only three.
+Target common build 40,000 + operations 18,000 + sales 36,000 = 94,000. Twelve implementations and eight service months contribute 196,640, leaving 102,640. With no service sales, eight implementations cover 94,000. A 20% implementation discount reduces surplus by 43,718.40 to 58,921.60. Doubling implementation delivery cost reduces it by 57,600 to 45,040.
 
 
 ## Page 09 | Acquiring the first customers
 
-Ten paid pilots must come from a verifiable funnel. They are a validation batch, not a long-term ceiling.
+Twelve sales require 400 prospects and 60 completed meetings, with full selling cost included.
 
-Base funnel: **200 deduplicated prospects × 60% valid contact × 30% completed needs meeting × 30% pilot purchase ≈ 10.8**, rounded down and capacity-capped at ten. “Valid contact” means substantive two-way contact, not delivery of a message. Meeting conversion is measured over 120 contacted prospects; purchase conversion over 36 completed meetings.
+400 → 240 substantive contacts → 60 completed needs meetings → 12 signed, paid implementations assumes 60% / 25% / 20%. In two weeks verify 60 prospects, complete 15 meetings and seek two kickoff payments. Source 80 introduction candidates, 200 public buyers and 120 partner candidates; none is a confirmed relationship yet.
 
-| Proposed source | Target list size | Verification | First action |
-| --- | --- | --- | --- |
-| Confirmed usable industry relationships / AI-consulting introductions | 40 | Verify relationship, role and willingness to introduce; no assumed access to a private address book | Request a 20-minute workflow interview |
-| Official directories, websites and public business entry points | 100 | Verify organization, region, content activity and contact route; deduplicate buyers | Prepare a short sample around one public task |
-| Brands, training and industry-service partners | 60 | Confirm introduction capability and commercial arrangements | Show a reviewable before/after comparison |
+Sales/marketing budget 36,000: 100 selling hours × 100 = 10,000; demos/samples 6,000; travel/events 8,000; partners 8,000; tools/contingency 4,000. Full CAC = 3,000 per implementation, already included. Allocate 30 hours to meetings, 40 to verification and 30 to proposals/follow-up. Revise if work exceeds this.
 
-This is not a completed customer list. Verify 30 real prospects in week one and 60 by week two; lower the quarterly target if suitable prospects cannot be found. Each row needs organization, region, business line, public source URL, user department, budget owner, confirmed introduction status, next action and do-not-contact flag.
-
-### Draft opening message — not sent
-“We are testing a workflow that turns product material into sourced content drafts. I would first like to understand the time you spend finding information, writing and reviewing. If there is a suitable task, we can demonstrate a limited comparison. Only after confirming value, source rights and acceptance would we discuss a paid 14-day pilot.”
-
-Plan 60 sales hours over 90 days: 20 for research, about 18 for 36 meetings, and 22 for follow-up/proposals. Cash budget: CNY 4,000 for samples, travel/online events and small channel trials. More than six minutes of verification per prospect exhausts the research allocation for 200 prospects; narrow the geography or add effort. AI does not make acquisition free. Use permitted personalized contact routes and honor opt-outs; do not bulk-add private phone numbers on WeChat.
-
-Deliver two pilots in month one, four in month two and four in month three, with at most two active concurrently. Ten pilots need 140 direct service hours, excluding sales and common development; each subscription customer-month adds five. Reduce concurrency if two pilots cannot be delivered within 14 days.
+Demonstrate one de-identified real task with sources, review, timing and permissions before a bounded 19,800 quote. No unsolicited bulk messaging; no outreach has been sent in this task.
 
 
 ## Page 10 | Channels & sales process
 
-Diagnose a real task before demonstrating, quoting, collecting payment and accepting delivery.
+Sell measurable workflow value, with payments at 40% / 40% / 20% milestones.
 
-| Period | Action | Evidence / next step |
-| --- | --- | --- |
-| Week one | Verify 30 prospects; conduct five interviews | Recent task, user, payer and source rights |
-| Week two | Reach 60 prospects, 15 interviews and five matched-task comparisons | Seek two pilot kickoff payments |
-| First delivery | Agree scope; collect 50% upfront; deliver in 14 days; remaining 50% on acceptance | Retain outputs and actual receipts, not invoices alone |
-| Renewal | Present the comparison report and bounded 1,980/month specification | Actual renewal from due customers |
-| Channel expansion | Turn accepted, consented work into a case; replicate outreach | Record introductions and new outcomes separately |
+Diagnosis → matched-task comparison → value calculation → scope/contract → 40% kickoff → 40% running workflow → 20% acceptance. Payments are 7,920 / 7,920 / 3,960 per sale; receipts do not establish fulfilled revenue. Recognize 19,800 in the modeled month only if delivery and acceptance are complete; otherwise defer.
 
-### Draft contact wording
-“I would like to understand how long research, writing and review currently take. We can compare one de-identified task, confirm value and acceptance, and then discuss a paid 14-day pilot.” This is a proposed draft, not a message sent in this task.
-
-### Channel boundaries
-A list is not a customer base; a public contact is not consent for bulk messaging. Record opt-outs. Do not collect private phone numbers for mass WeChat additions. The base plan provides CNY 4,000 and 60 sales hours; narrow the region or revise the budget if verification takes longer.
+New implementations: 2 / 4 / 6. Monthly service accounts: 0 / 2 / 6. Monthly revenue: 39,600 / 92,800 / 159,600, totaling 292,000. Six month-three service accounts assumes all six earlier customers renew; validate this rather than treating it as evidence. Partner compensation must fit the approved budget.
 
 
-## Page 11 | Financial scenarios
+## Page 11 | 90-day economics & scale targets
 
-Apply the same formula to conservative, base and upside cases. More revenue does not mean total investment has been recovered.
+The target is a six-figure CNY quarterly surplus; low sales can still produce a loss.
 
-All amounts in CNY.
-
-| Scenario | 90-day revenue | Direct contribution | Cash expenditure budget | Full economic result |
+| Scenario / stage | Paying customers | Revenue | Total budget | Target economic surplus |
 | --- | --- | --- | --- | --- |
-| Conservative | 10,920.00 | 5,743.20 | 9,976.80 | -37,456.80 |
-| Base | 37,720.00 | 20,011.20 | 15,828.80 | -24,188.80 |
-| Upside | 60,540.00 | 32,618.40 | 21,961.60 | -13,581.60 |
+| Conservative | 4 | 92,800.00 | 108,224.00 | -15,424.00 |
+| Target | 12 | 292,000.00 | 189,360.00 | 102,640.00 |
+| Stretch | 20 | 504,800.00 | 289,184.00 | 215,616.00 |
 
+| Cost item | CNY budget |
+| --- | --- |
+| Implementation delivery | 57,600.00 |
+| Subscription delivery | 14,400.00 |
+| Processing and tax/refund reserve | 23,360.00 |
+| Sales and marketing | 36,000.00 |
+| Product build | 40,000.00 |
+| Operating labor and overhead | 18,000.00 |
 
-| Input | Conservative | Base | Upside |
-| --- | --- | --- | --- |
-| Prospects / valid-contact rate | 120 / 50% | 200 / 60% | 300 / 70% |
-| Meeting / pilot-purchase rate | 25% / 20% | 30% / 30% | 35% / 35% |
-| Delivered-pilot capacity | 3 | 10 | 15 |
-| Total subscription customer-months | 1 | 4 | 8 |
+### Basis of calculation
+This is a target-led operating plan. Prices, sales, conversion and cost ceilings remain untested. Economic surplus equals fulfilled revenue less the full economic budget, including paid labor, build, marketing, service, processing and tax/refund reserves. Reserves are not final tax settlements. Actual net profit depends on the operating entity, contracts and accounting. Unfulfilled prepayments are deferred rather than counted as profit.
 
-Base revenue = 10 × 2,980 + 4 × 1,980 = CNY 37,720. The upside funnel can produce more demand, but delivery is capped at 15 pilots. All scenarios remain below full construction and selling costs. Additional cash assumes internal hours are not paid incrementally. Unquoted taxes and similar items are excluded.
 
 
 ## Page 12 | Resources & cash planning
 
-Internal engineering and product resources have an economic cost even when no immediate cash payment occurs.
+All build and operating costs are included: base budget CNY 189,360 versus 292,000 revenue.
 
-| Common investment | Planning cost, CNY |
+| Cost item | CNY budget |
 | --- | --- |
-| Engineering: 160 hours × 150 | 24,000 |
-| Product: 80 hours × 80 | 6,400 |
-| One-time test setup | 2,000 |
-| Common infrastructure and administration, three months | 3,000 |
-| Total fixed economic investment | 35,400 |
+| Implementation delivery | 57,600.00 |
+| Subscription delivery | 14,400.00 |
+| Processing and tax/refund reserve | 23,360.00 |
+| Sales and marketing | 36,000.00 |
+| Product build | 40,000.00 |
+| Operating labor and overhead | 18,000.00 |
 
-### Additional workload
-The base case needs 140 direct service hours for ten pilots, 20 for four subscription customer-months, and 60 for sales. Assign these by role and individual availability; do not assume a part-time engineer can perform everything.
+Build 40,000 = 200 engineering hours × 150 + 125 product hours × 80. Common operations 18,000 are separate from client service labor. Twelve implementations require 456 direct hours; eight service months require 96: 552 total, plus 325 build hours, 100 sales hours and common operations. Assign at least two available delivery contributors and qualified review capacity; do not assume one person does everything.
 
-### Cash timing
-Additional cash budget is 15,828.80; total economic expenditure is 61,908.80. Proposed pilot payments are 50% upfront and 50% on acceptance. Sales, API and review expenses may precede receipts, so plan working capital by actual payment dates. Contract value is not money received. If all planned revenue is collected, the cash balance difference is positive while the full economic result remains negative.
+Discuss 100,000 of working-capital funding, not an extra expense. Prepare a weekly ledger for receipts, reviewers/contractors and refund liabilities. Recalculate peak funding for delayed kickoff payments, acceptance or settlement. Release only 15,000 for the first 14 days, then expand against real orders.
 
-### First 14 days
-If the team chooses industry work for near-term paid validation, discuss an additional cash cap of 5,000, 35 hours from me, 20 engineering hours and ten professional-review hours. Review cash is included in the cap; do not add it again. This allocation has not been approved.
+### Monthly funding illustration
+| Month | Fulfilled revenue | Economic spending | Cumulative balance |
+| --- | --- | --- | --- |
+| 1 | 39,600 | 60,768 | -21,168 |
+| 2 | 92,800 | 58,224 | 13,408 |
+| 3 | 159,600 | 70,368 | 102,640 |
+Assumes all due sales settle in the same month and planned costs are paid. These month-end balances do not establish daily peak funding; deposits, holds, deferred delivery and taxes require an actual dated cash ledger. Working capital is financing, not an additional P&L cost.
 
 
 ## Page 13 | 90-day milestones
 
-Expand delivery in batches. Let actual acceptance and renewal from mature customers determine productization.
+Deliver 2 / 4 / 6 implementations, expanding only with quality and payment evidence.
 
-| Checkpoint | Proposed task / target | Evidence for continuing |
-| --- | --- | --- |
-| D7 | Verify 30 prospects, five interviews and a reviewer | Actual tasks and usable material |
-| D14 | 15 interviews, five comparisons, seek two kickoff payments | Paid acceptance of bounded scope |
-| D30 | Complete the first two pilots | Acceptance, controlled effort and errors |
-| D60 | Deliver four more; target actual renewal from at least two mature customers | Payments from due cohorts, not verbal intent |
-| D90 | Deliver four more; base case ends with three subscribers | Recalculate service, CAC and subscription contribution |
+D7: prospect pool, five interviews, reviewer and sample. D14: 15 needs meetings, five matched tasks, seek two kickoff receipts of 7,920. D30: accept two implementations. D60: accept four more, with the prior two on service. D90: accept six more, with six earlier customers on service; reconcile 292,000 revenue and 102,640 target surplus.
 
-### Quarterly base definition
-New pilots are delivered 2 / 4 / 4 by month. Period-end subscriptions are 0 / 1 / 3, totaling four customer-months. Month-three pilots not yet due for renewal are neither churned nor successful renewals.
-
-### Capacity constraint
-At most two active pilots, each lasting 14 days. If the first two cannot meet scope, reduce concurrency or raise price before expanding outreach. D0 begins when the team confirms resources.
+If none of the first 15 qualified meetings accepts the price or demonstrates ROI, revise audience and scope. Delayed acceptance defers revenue and surplus; signed intent is not current fulfilled sales.
 
 
 ## Page 14 | Metrics & acceptance criteria
 
-Measure expertise, time saved, payment and renewal separately. Replication requires all of them.
+Assess payment, fulfillment, cost and quality together rather than revenue alone.
 
-Run five real matched-task comparisons with the same customer material and task: general model plus sources versus the workflow system. Blind the reviewer to the method where practical. Record total time, verification time, factual errors, source coverage, edits and usable-output rate. Generation speed alone is insufficient.
+12 accepted implementations; eight service months; ≥30% total time saved; zero unresolved critical factual errors; full CAC ≤3,000; budget ≤189,360.
 
-Suggested pilot acceptance: all ten agreed outputs delivered; every verifiable product fact has a supporting source or an explicit gap; no unresolved critical factual errors; sampled links open and substantiate their sentences; median total task time falls by at least 30%; all review/revision versions are traceable; and at least 80% of outputs meet pre-agreed usability standards within two rounds. No sales or regulatory-publication approval is guaranteed.
-
-Continuation gates: at least two agreed kickoff payments by D14; two accepted pilots by D30; at least two real renewals among mature customers by D60. Ten paid pilots by D90 is a target; three period-end subscribers is the base assumption. Pause productization if 20 qualified interviews yield fewer than two willing payers, the first three pilots consistently exceed 24 direct hours, or usable source rights / professional review cannot be secured. Narrow the service or stop.
-
-Validate the institution-research module separately: 50 deduplicated records with traceable sources; sample at least ten; target at least 90% correctness for institutions and contact entry points. An email is not a qualified opportunity. Observe the customer's permitted outreach, responses, meetings and conversion. This project does not send bulk messages. Keep the module out of the main subscription pitch until value is demonstrated.
+These are proposed thresholds. Count unique valid payers, remove invalid/refunded transactions, and accept only usable confirmed outputs. Separate mature observation periods. Track source, reach, unique visits, actual payment, delivery, refunds and full cost. Downloads and intent are not revenue. Pause expansion and revise the plan if early pricing, quality or unit-cost gates fail.
 
 
 ## Page 15 | Risks & responses
@@ -687,8 +525,8 @@ Industry errors and uncontrolled human service effort matter more than the abili
 | --- | --- | --- |
 | Incorrect or stale sources | Confused model/version; citation fails to support a claim | Engineering preserves versions; reviewer checks; stop generation when evidence is inadequate |
 | Advertising / clinical boundaries | Efficacy guarantees or unverified applicability | Customer and reviewer confirm intended use; no automatic publishing |
-| Uncontrolled labor | First three pilots repeatedly exceed 24 hours | I narrow scope, reprice or pause productization |
-| Weak renewal | Value below 1,980 or no recurring task | Reassess actual ROI; no unlimited support sustained by discounts |
+| Uncontrolled labor | First three pilots repeatedly exceed 48 hours | I narrow scope, reprice or pause productization |
+| Weak renewal | Value below 6,800 or no recurring task | Reassess actual ROI; no unlimited support sustained by discounts |
 | Low sales efficiency | Fewer than two willing payers after 20 qualified interviews | Narrow the audience or stop before building a platform |
 | Failed data separation | Cross-customer retrieval or unclear permission | Engineering suspends affected access and investigates scope |
 
@@ -744,30 +582,18 @@ Use sourced prospect records, interviews, payment/refund records, task logs, sup
 ### Evidence levels
 Public facts retain their sources and dates. Prices, counts and costs are planning assumptions. Formula outputs are calculations. Relationships, resources and technical capability remain to be validated. Recheck dynamic prices before launch. The BP and website are deliverables; commercial viability has not been established.
 
+New target gaps: accepted quotations, attributable reach, actual payment/refunds, full labor/API costs, delivery capacity and team resources. Page 11 economics V7 supersedes earlier figures; public sources do not establish project sales.
+
 Sources: [S2 National Health Commission: 2024 statistical bulletin](https://www.nhc.gov.cn/guihuaxxs/c100132/202512/9db8db5488a748c4b1e1068a4a8c4455.shtml?menuid=128); [S6 Dify official pricing](https://dify.ai/pricing); [S7 Coze official plans and pricing](https://docs.coze.cn/cozespace_coze_billing_overview); [S10 Medical-aesthetics advertising enforcement guidance](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2023/art_d1b46dbc27214abcace53a0ec539f7bb.html); [S11 Medical advertising supervision guidance](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2025/art_cd56662cf13b4ad59eabfe31cb1122e1.html)
 
 
 ## Page 18 | Recommendation & decisions
 
-If the immediate objective is to validate payment and delivery, the industry agent is the more direct first pilot.
+Organize resources around the larger commercial objective; target economic surplus of CNY 102,640.00 requires its assumptions to hold.
 
-### Why it fits near-term validation
-A budget owner is easier to identify, task frequency and time savings are measurable, and delivery can begin with human assistance. It can validate real revenue without establishing national segment size, standardized subscriptions or long-term growth.
+Position 19,800 implementation plus 6,800 monthly service for higher-value buyers. Secure two kickoff payments and evidenced ROI before scaling to 12 implementations/eight service months.
 
-| Decision | Suggested starting point |
-| --- | --- |
-| Customer and task | One reachable region/segment and one product-content workflow |
-| 14-day objective | 15 substantive interviews, five comparisons, seek two kickoff payments |
-| Cash and effort | Discuss a CNY 5,000 additional cash cap and named staffing; not an approved budget |
-| Price | Bounded 2,980 pilot, then test 1,980/month |
-| Continue when | Real acceptance, time savings, manageable cost and mature-customer renewal |
-| Pause when | Fewer than two willing payers after 20 qualified interviews, no reviewer or uncontrolled effort |
-
-### Relationship to personal AI
-The industry pilot can test team collaboration and paid delivery. Personal AI addresses a different consumer-growth opportunity. Windows, customer counts and revenue structures differ; the largest revenue number alone should not decide strategy.
-
-### Team feedback
-Confirm the first segment, reviewer source, engineering allocation and payment/contract entity. I will advance product and market work; we will jointly determine technical choices and customization scope.
+Confirm owners, available labor, technical route, budget, operating/tax entity, channels and stop gates together. I will drive product, market, content and validation. These are the business outcomes to pursue; orders, reach and costs still require evidence. Recalculate actual results when targets are missed rather than promising profit.
 
 
 # 03 Personal-story visual novels
@@ -775,22 +601,13 @@ Confirm the first segment, reviewer source, engineering allocation and payment/c
 
 ## Page 01 | Executive summary
 
-Help an ordinary person finish a playable personal work, then test purchase, sharing and a second creation.
+Target 1,000 paid authors in 90 days, CNY 299,000 revenue and 108,080 economic surplus.
 
-| Business item | Initial plan |
-| --- | --- |
-| Customer / payer | Adults with commemorative, school or career stories and rights to use their material |
-| Product | Tell the story → confirm characters → generate visuals and branches → complete playable work |
-| Free experience | One complete 800–1,200-Chinese-character short work per person, not a paywalled preview |
-| Pricing hypothesis | CNY 69 per standard work; free for players |
-| Base cohort | 500 visits → 100 completed first works → 12 payers; 15 expected orders |
-| 90-day result | Revenue CNY 1,035; full economic result −35,517.80 |
+### Tiered works and prices
+Standard CNY 199/work: 3,000–5,000 Chinese characters across branches, three characters, six image assets, three endings, one in-scope revision, 30-day hosting and local export. Polished CNY 699/work: the same technical baseline plus interview/character work and at most 90 minutes of editing, up to 12 assets and two consolidated revisions. Quote long-form and voice separately; no unlimited edits.
 
-### First recommendation
-Deliver ten short works with human assistance. Record generation, review, rework and author experience, then open a controlled 100-person cohort if costs are manageable. The original 30,000–50,000-character concept remains a later quality/cost experiment, not a promise inside the CNY 69 package.
+The free entry is a playable template sample and lightweight preview, replacing a free fully customized work for everyone. Disclose scope before payment. Authors pay; friends play free. Verify source rights, default to private and allow sharing withdrawal. Target mix: 80% standard / 20% polished, giving CNY 299 average order value. The mix is untested; players are not paying authors.
 
-### Decision requested
-Agree the first theme, output specification, source rights, generation route and affordable experiment budget. Whether this becomes a frequent-use platform or a commemorative service should depend on actual repeat purchase.
 
 
 ## Page 02 | Customers & the problem
@@ -824,32 +641,22 @@ Example: “Turn my transition from leaving a job to winning my first independen
 
 ## Page 04 | MVP & delivery scope
 
-The free short work must be complete. Paid characters, images, branches and revisions need explicit limits.
+Raise order value through defined delivery tiers; validate sample quality before automation promises.
 
-Retain the full journey: tell a story → confirm characters → generate visuals and branches → play → share → bring in another author. The first free work is not unfinished content behind a payment wall: plan 800–1,200 Chinese characters across the script, two characters, two scenes, one key choice and two endings. Free visuals use licensed templates; characters follow text descriptions. Paid work can test custom character art based on authorized photos. Photo input belongs to the original ambition, but consistency and permission should first be tested with human-assisted paid work before unreviewed portrait generation is opened.
+### Tiered works and prices
+Standard CNY 199/work: 3,000–5,000 Chinese characters across branches, three characters, six image assets, three endings, one in-scope revision, 30-day hosting and local export. Polished CNY 699/work: the same technical baseline plus interview/character work and at most 90 minutes of editing, up to 12 assets and two consolidated revisions. Quote long-form and voice separately; no unlimited edits.
 
-Keep 30,000–50,000 characters as a later quality/cost experiment, not an included CNY 69 promise. Length alone does not establish story quality or what a player reads. Report total branch-script length separately from estimated time for one route.
+The free entry is a playable template sample and lightweight preview, replacing a free fully customized work for everyone. Disclose scope before payment. Authors pay; friends play free. Verify source rights, default to private and allow sharing withdrawal. Target mix: 80% standard / 20% polished, giving CNY 299 average order value. The mix is untested; players are not paying authors.
 
-Assumed standard paid specification: 3,000–5,000 Chinese characters across branches; at most three main characters; six scene/character assets; three key choices; three endings; one revision round; browser play; 30 days of hosting; and a downloadable local reading package. An estimated 10–20 minutes per route is an assumption to update after testing.
 
 
 ## Page 05 | Market sizing & evidence
 
-The initial market is reachable authors who finish works, not all AI users or all game players.
+Expand from a 100-author test to 1,000 paid authors, with 3,000 stretch.
 
-| Level | Definition | Current state |
-| --- | --- | --- |
-| TAM | Adults with personal-story demand and permission to provide material | No reliable segment size yet |
-| SAM | Chinese short stories, browser play, acceptable template visuals and non-sensitive inputs | Requires interviews |
-| Candidate channels | Ten creator/community entries; seek five effective entries | No confirmed partnerships or owned traffic assumed |
-| 90-day visits | 500 qualified visits | Depends on real demonstrations and recruitment |
-| Activation / sales | 100 complete free works, 12 paid authors, 15 expected orders | Assumes 20% activation, 12% purchase and 25% second purchase |
+Target funnel: 50,000 unique visits → 10,000 completed previews/plays (20%) → 1,000 paid authors (10%). Count one initial order each; no repeat purchase is needed to reach the target. Stretch requires 150,000 visits, 30,000 previews and 3,000 payers with a larger budget.
 
-### Expenditure and capacity
-Base additional cash budget: CNY 5,632.80. Total economic expenditure: 36,552.80. Free works have a cost in the model. The first 100 works are a controlled allowance, not an unlimited-free promise.
-
-### Bottom-up method
-Attribute deduplicated visits → creation started → playable work finished → purchase → another creation. Track player-sharing traffic separately; work views are not author counts. The broad AI market is context, not a defensible TAM revenue estimate for this product.
+Start with adult graduation, birthday/anniversary, friendship and career stories using authorized material. Do not market therapy or life prediction. Later 10,000/100,000 paid-author stages depend on measured acquisition and automated delivery; player views are not payers.
 
 Sources: [S1 CNNIC: 2026 generative AI application report](https://www2.cnnic.cn/n4/2026/1008/c326-11703.html)
 
@@ -876,136 +683,110 @@ Sources: [S8 AI Dungeon official memberships](https://help.aidungeon.com/members
 
 ## Page 07 | Business model & pricing
 
-The author pays for a finished work; players are free. Per-work pricing fits an initial test of potentially infrequent demand.
+CNY 199 standard + 699 polished, targeting CNY 299 average order value.
 
-| Offer hypothesis | Price | Included scope |
-| --- | --- | --- |
-| First complete short work | CNY 0, once per person | Template visuals, 800–1,200 Chinese characters, two endings and limited hosting |
-| Standard work | CNY 69 each | 3,000–5,000 characters, up to three characters, six assets, three endings, one revision |
-| Human-polished commemorative edition | CNY 299, capped at the first ten | At most two editing hours; separate specification; price interviews only, excluded from revenue model |
-| Long-form / voice / extra branches | Not sold in the initial trial | Quote separately after quality and cost experiments |
+### Tiered works and prices
+Standard CNY 199/work: 3,000–5,000 Chinese characters across branches, three characters, six image assets, three endings, one in-scope revision, 30-day hosting and local export. Polished CNY 699/work: the same technical baseline plus interview/character work and at most 90 minutes of editing, up to 12 assets and two consolidated revisions. Quote long-form and voice separately; no unlimited edits.
 
-The author is the payer; invited players are free. Do not start with an unlimited monthly subscription when demand may occur only on special occasions. Test whether this is a gift business or frequent creation platform. A viable one-time purchase with weak repeat use can support a small service without pretending to be platform growth.
+The free entry is a playable template sample and lightweight preview, replacing a free fully customized work for everyone. Disclose scope before payment. Authors pay; friends play free. Verify source rights, default to private and allow sharing withdrawal. Target mix: 80% standard / 20% polished, giving CNY 299 average order value. The mix is untested; players are not paying authors.
 
-Allow retries for delivery failure. If no playable work is produced within the disclosed waiting period, handle refunds under the stated rules. Budget for retry costs and refund reserves. New characters or a new theme are not unlimited revisions.
 
 
 ## Page 08 | Unit economics & viability
 
-Free-work costs can consume paid contribution. Sharing incentives require a separate budget.
+At CNY 299 blended order value and 80 fulfillment cost, contribution after reserves is 195.08/order.
 
-Target full economic cost per free work: CNY 6 = model/template allocation 3 + storage/distribution 1 + review/support 2. Paid work: 18 = text/images 8 + storage/distribution 2 + review/after-sales 8. Add 3% processing and a 5% refund reserve. Direct contribution per paid order = 69 − 18 − 69 × 8% = **CNY 45.48**. Every 100 free works cost 600 and must be included in the funnel economics.
+Standard direct cost 45: models/images 15, storage/export 5, review/support 25. Polished 220: generation/assets 30, storage 10, editing/review/support 180. Weighted cost = 80% × 45 + 20% × 220 = 80. Reserve 8% for processing, tax and refunds: 299 × 92% − 80 = 195.08. Labor budgets require about 15 minutes per standard work and 90-minute polished editing plus review; log actual effort.
 
-Proposed credit experiment: an author who brings three deduplicated new players who finish playing receives CNY 10 off their next work, at most once per month. No cash withdrawal or stacking. Cap the first trial at 50 credits, CNY 500 face value. This pool is **excluded from the no-incentive base case**. If activated, deduct credits actually redeemed from receipts and track separately. Clicks alone earn no reward. Keep only necessary anti-abuse data.
-
-Illustrative author referral coefficient: 30% share × three unique players per sharer × 10% player-to-author conversion = **0.09**. One hundred authors generate nine new authors on average, far below self-sustaining growth. Holding the first two inputs constant, K > 1 would require more than 100% conversion, which is impossible. More genuine reach or stronger repeat creation is necessary. First measure openings, completed play and willingness to create.
+10,000 free previews × 0.20 = 2,000, not 10,000 custom long works. Build 30,000 + operations 15,000 + marketing 40,000 + previews 2,000 = 87,000. Break-even rounds up to 446 mixed orders. If all 1,000 buy only standard: revenue 199,000, delivery 45,000, reserve 15,920, other costs 87,000, surplus 51,080. At 150 average fulfillment cost, mixed-case surplus falls to 38,080.
 
 
 ## Page 09 | Acquiring the first customers
 
-Acquire 100 authors who finish their first work, then observe who actually purchases.
+Budget CNY 40,000 to acquire 1,000 paid authors: full CAC target 40.
 
-Base funnel: **500 qualified visits × 20% completing a first work = 100 activated authors; 100 × 12% purchase = 12 payers.** Assuming 25% buy one additional work within 90 days gives 15 orders. Repeat purchase is an unverified assumption measured over payers, not all players.
+Thirty creator/community entries × 1,000 unique visits = 30,000; 20 playable cases × 500 = 10,000; author sharing, search and direct recruitment 10,000. Deduplicate sources before attribution. The partner funnel, 100 candidates → 60 substantive discussions → 30 agreements, is unverified.
 
-Channel targets: five small creators/communities × 50 visits = 250; five playable original examples × 30 = 150; permitted direct invitations and author sharing = 100. Partnerships and follower counts are unconfirmed. Start with ten candidate entries, secure two trials, then deliver in small batches. Demonstrate a playable route rather than only generation videos or polished screenshots.
+Marketing 40,000 includes partnerships/ads 18,000; content/sample labor 10,000; demo assets 4,000; research/attribution 4,000; sharing credits 4,000. Actual redeemed credits reduce revenue; the model reserves an equivalent acquisition cost, without double counting or treating credits as income. Cash commissions must also fit the cap. Obtain permission to display cases.
 
-Cash budget CNY 1,200: samples/assets 500, small collaborations 500, research incentives 200. My 40 hours are valued at 3,200. Base cash CAC is 100 per paid author; including acquisition labor, 366.67. The CNY 69 price and current generation costs do not support paid traffic acquisition at these levels.
+Test each channel with two real examples. Track visits, completed previews, purchases, refunds and order value. Stop expansion if CAC exceeds 80 without compensating economics. Secure 100 paid authors before expanding toward 1,000.
 
 
 ## Page 10 | Channels & sales process
 
-Deliver ten samples to test completion and pricing before expanding channels.
+Sell through a complete playable sample, clear specifications and word of mouth.
 
-| Stage | Action | Evidence |
-| --- | --- | --- |
-| Sample preparation | Choose two non-sensitive original stories and produce complete routes | Playable and accepted by the author |
-| Channel candidates | Identify ten entries; secure two small-trial agreements | Source, agreement and visit attribution |
-| Human assistance | Deliver ten short works; record every revision | Cost, completion and user feedback |
-| Real quotation | Present the CNY 69 specification for a second/upgraded work | Payment and refunds, not verbal intent |
-| Controlled recruitment | After quality/cost gates, admit at most 100 free authors | Activation, completion, sharing and purchase |
-| Sharing review | Separate self-testing, friend play and player-to-author conversion | Next-generation authors and their cost |
+Demonstrate a choice → play a template → submit authorized story material → review 199/699 scope and delivery dates → pay → confirm outline → produce/accept → private link with revocable sharing. Award sharing credits only for valid, non-refunded new payments, within a 4,000 cap. Clicks, player views and multiple commission levels are not revenue.
 
-### Channel content
-Share genuinely playable routes, not just screenshots or “generating” footage. State the free specification. Do not attract users with a promised free long story and require payment to reach its ending.
-
-### Original credit mechanism
-Test a credit after valid completed play separately, capped at 50 credits and CNY 500 face value. The base model excludes it; deduct actual redemption if used. Credits are not revenue, and the proposal does not use multiple commission levels.
+Deliver 100 / 300 / 600 orders by month, with revenue 29,900 / 89,700 / 179,400 at the 80/20 mix. Cap orders and display queues when capacity is full. Undelivered receipts remain liabilities rather than current revenue. Proposed delivery is 48 hours standard and five working days polished, subject to trial evidence.
 
 
-## Page 11 | Financial scenarios
+## Page 11 | 90-day economics & scale targets
 
-Use the same formula across conservative, base and upside cases. More revenue does not mean total investment is covered.
+Scale and order value jointly support the target; the conservative case shows the effect of weak sales.
 
-All amounts in CNY.
-
-| Scenario | 90-day revenue | Direct contribution | Cash expenditure budget | Full economic result |
+| Scenario / stage | Paying customers | Revenue | Total budget | Target economic surplus |
 | --- | --- | --- | --- | --- |
-| Conservative | 227.70 | -209.92 | 5,291.22 | -35,809.92 |
-| Base | 1,035.00 | 82.20 | 5,632.80 | -35,517.80 |
-| Upside | 3,864.00 | 1,346.88 | 7,469.12 | -35,053.12 |
+| Conservative | 200 | 59,800.00 | 86,784.00 | -26,984.00 |
+| Target | 1,000 | 299,000.00 | 190,920.00 | 108,080.00 |
+| Stretch | 3,000 | 897,000.00 | 477,760.00 | 419,240.00 |
 
+| Cost item | CNY budget |
+| --- | --- |
+| Paid-work delivery | 80,000.00 |
+| Processing and tax/refund reserve | 23,920.00 |
+| Marketing | 40,000.00 |
+| Free samples | 2,000.00 |
+| Product build | 30,000.00 |
+| Operating labor and overhead | 15,000.00 |
 
-| Input | Conservative | Base | Upside |
-| --- | --- | --- | --- |
-| Visits / activation | 400 / 15% | 500 / 20% | 800 / 25% |
-| Activated authors / purchase | 60 / 5% | 100 / 12% | 200 / 20% |
-| Payers / second-purchase probability | 3 / 10% | 12 / 25% | 40 / 40% |
-| Expected orders | 3.3 | 15 | 56 |
+### Basis of calculation
+This is a target-led operating plan. Prices, sales, conversion and cost ceilings remain untested. Economic surplus equals fulfilled revenue less the full economic budget, including paid labor, build, marketing, service, processing and tax/refund reserves. Reserves are not final tax settlements. Actual net profit depends on the operating entity, contracts and accounting. Unfulfilled prepayments are deferred rather than counted as profit.
 
-Base revenue = 15 × 69 = CNY 1,035; direct contribution is only 82.20 after free-work costs. 3.3 orders is a scenario expected value, not an actual order count. Observe a full 90 days after cohort entry; do not assume repeat purchases for late entrants in advance. Additional credits, taxes and unquoted launch costs are excluded.
 
 
 ## Page 12 | Resources & cash planning
 
-Establish whether works can be delivered at target cost before investing in an automated platform.
+The CNY 190,920 target budget includes paid fulfillment, free previews, all marketing and build.
 
-| Fixed investment | Assumed cost, CNY |
+| Cost item | CNY budget |
 | --- | --- |
-| Engineering: 140 hours × 150 | 21,000 |
-| Product / narrative: 80 hours × 80 | 6,400 |
-| Assets and testing | 2,000 |
-| Common hosting: three months × 600 | 1,800 |
-| Fixed economic cost | 31,200 |
+| Paid-work delivery | 80,000.00 |
+| Processing and tax/refund reserve | 23,920.00 |
+| Marketing | 40,000.00 |
+| Free samples | 2,000.00 |
+| Product build | 30,000.00 |
+| Operating labor and overhead | 15,000.00 |
 
-### Base 90-day budget
-Cash 5,632.80; total economic expenditure 36,552.80; revenue 1,035; economic result −35,517.80. Cash assumes internal engineering, narrative and some service labor incur no additional payment; it is not a standalone outsourcing quote.
+Build 30,000 = 160 engineering hours × 150 + 75 product hours × 80. Eight hundred standard works × 15 minutes = 200 hours; 200 polished works × 90 minutes = 300 editing hours, plus about 100 polished-review hours: roughly 600 production/review hours. Month three needs about 360 hours for 600 orders: at least three collaborators each supplying 120 hours, funded within delivery costs. Confirm actual people and rates. A 3,000-order stretch needs additional capacity.
 
-### Allowances and reserves
-100 free works × 6 = 600 full cost. Fifteen paid orders × 18 = 270 direct service cost; processing/refund reserves are additional. If a free work costs 15 rather than 6, expenditure rises by 900 and contribution turns negative. Do not open unlimited free creation expecting sharing to recover the cost.
+Discuss 80,000 working capital; release 10,000 for ten quality samples and a 100-order conversion test first. Expand marketing after sales evidence, retaining funding for fulfillment and refunds.
 
-### Staged approval
-Start with ten human-assisted samples. Approve the 100-person allowance only after quality and cost evidence. Set each batch's cap and retry rules. Long stories, voice, repeated polishing and rights purchases are not automatically included.
+### Monthly funding illustration
+| Month | Fulfilled revenue | Economic spending | Cumulative balance |
+| --- | --- | --- | --- |
+| 1 | 29,900 | 45,792 | -15,892 |
+| 2 | 89,700 | 58,776 | 15,032 |
+| 3 | 179,400 | 86,352 | 108,080 |
+Assumes all due sales settle in the same month and planned costs are paid. These month-end balances do not establish daily peak funding; deposits, holds, deferred delivery and taxes require an actual dated cash ledger. Working capital is financing, not an additional P&L cost.
 
 
 ## Page 13 | 90-day milestones
 
-Separate sample delivery, controlled recruitment and repeat purchases from mature cohorts.
+Plan 100 / 300 / 600 accepted orders; unfulfilled prepayments do not meet the profit goal.
 
-| Checkpoint | Work to complete | Condition for the next step |
-| --- | --- | --- |
-| D7 | Five interviews; two usable stories and a defined specification | Authors willing to confirm material and characters |
-| D14 | Two–three complete short works; present paid scope | Playable from beginning to an ending |
-| D30 | Ten human-assisted works delivered | Quality, labor and image retry cost measurable |
-| D60 | Open a 100-person cohort only with cost evidence | Actual generation, completion and payment |
-| D90 | Observe mature-cohort repeat purchase and sharing-led creation | Choose platform, service or stop |
+D7: two authorized stories, playable cases, scope and logs. D14: ten samples, 20 genuine quotations, validate the first ten paid orders. D30: accept 100 orders with ten attributable channels. D60: accept 300 more, expand to 30 channels and prepare three delivery contributors. D90: accept 600 more, totaling 1,000; reconcile price mix and the 108,080 target surplus.
 
-### Observation window
-The financial 90 days run from author cohort entry. Late entrants are not credited with future second purchases or classified as due churn. One hundred authors are not 100 active paying users.
-
-### Joint engineering assessment
-Start with an assisted workflow if appropriate; build a web task queue after sample validation if justified. Select engine, text/image models, hosting and export format with the team based on quality, cost and effort.
+If authors play without buying, reassess demand and price. If polished mix falls below 20%, use the actual order value rather than inventing premium orders. Later 10,000/100,000 paid-author stages require proven automation, CAC and capacity.
 
 
 ## Page 14 | Metrics & acceptance criteria
 
-Complete works, author approval, player completion and actual purchase each need their own denominator.
+Assess payment, fulfillment, cost and quality together rather than revenue alone.
 
-In the first ten human-assisted works, record actual labor minutes, generation count, image rework and reasons for edits. Acceptance requires every choice to reach an ending, no dead links, consistent names and relationships, clear fact/fiction separation, author deletion and sharing withdrawal, and mobile play from beginning to at least one ending. Authors must approve visual consistency; model output is not automatically acceptable.
+1,000 accepted paid works; target 80/20 price mix; preview-to-paid 10%; full CAC ≤40; generation completion ≥95%; zero serious privacy incidents.
 
-Suggested continuation gates: at least seven of the first ten authors approve characters/story; at least five play through without further explanation. In the 100-person batch, generation completion ≥80%, first-route completion ≥50%, sharing ≥25%, standard paid conversion ≥12%, and zero serious privacy incidents. Actual retry-inclusive cost must remain within the price-supported limit. If works look good but users do not play/share, test gift or commemorative demand. If free costs cannot be controlled, close open recruitment and retain only limited trials.
-
-### Repeat and sharing definitions
-Second purchasers / paying authors with the relevant completed observation window. Player-to-author conversions / unique shared-link players. Remove author self-tests and duplicate accounts; report incentive cohorts separately. Link clicks are not completed play.
+These are proposed thresholds. Count unique valid payers, remove invalid/refunded transactions, and accept only usable confirmed outputs. Separate mature observation periods. Track source, reach, unique visits, actual payment, delivery, refunds and full cost. Downloads and intent are not revenue. Pause expansion and revise the plan if early pricing, quality or unit-cost gates fail.
 
 
 ## Page 15 | Risks & responses
@@ -1072,91 +853,69 @@ Use sourced prospect records, interviews, payment/refund records, task logs, sup
 ### Evidence levels
 Public facts retain their sources and dates. Prices, counts and costs are planning assumptions. Formula outputs are calculations. Relationships, resources and technical capability remain to be validated. Recheck dynamic prices before launch. The BP and website are deliverables; commercial viability has not been established.
 
+New target gaps: accepted quotations, attributable reach, actual payment/refunds, full labor/API costs, delivery capacity and team resources. Page 11 economics V7 supersedes earlier figures; public sources do not establish project sales.
+
 Sources: [S1 CNNIC: 2026 generative AI application report](https://www2.cnnic.cn/n4/2026/1008/c326-11703.html); [S8 AI Dungeon official memberships](https://help.aidungeon.com/memberships-benefits); [S9 Ren'Py official website](https://www.renpy.org/); [S12 Measures for labeling AI-generated synthetic content](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
 
 
 ## Page 18 | Recommendation & decisions
 
-Use ten complete samples to validate author value before choosing a creation platform or a per-work commemorative service.
+Organize resources around the larger commercial objective; target economic surplus of CNY 108,080.00 requires its assumptions to hold.
 
-| Decision | Proposed starting point |
-| --- | --- |
-| First context | Adult graduation, friendship or career-transition stories |
-| Samples | Ten human-assisted complete short works; record effort and rework |
-| Price | One limited complete work free; standard work at an assumed CNY 69 |
-| Next target | A 100-author trial after quality gates; observe purchase, sharing and repeat use |
-| Continue when | Authors approve, routes work, cost is controlled and payments occur |
-| Pause when | Low completion, uncontrolled free cost or unresolved rights/privacy |
+Use 199 standard plus 699 polished to support order value. Complete ten samples and validate 100 paid authors before expanding to 1,000.
 
-### Why retain the direction
-It fits narrative and visual capabilities and produces a demonstrable finished experience. Demand may be infrequent, however, and free creation/sharing do not automatically yield sustainable growth. Let use and purchase determine the format.
-
-### Comparison with the other directions
-Personal AI focuses on frequent tasks and long-term user scale. The industry agent focuses on defined business delivery. Stories focus on personal works and sharing. All are discussable, but three complete development budgets should not be presumed approved together.
-
-### Team feedback
-Confirm first-work specification, automation level, review and asset-rights rules, trial budget and engineering support. Choose engine and models jointly after comparing sample quality and cost.
+Confirm owners, available labor, technical route, budget, operating/tax entity, channels and stop gates together. I will drive product, market, content and validation. These are the business outcomes to pursue; orders, reach and costs still require evidence. Recalculate actual results when targets are missed rather than promising profit.
 
 
 # Comparison & priorities
 
-Agree the review objective before prioritizing resources. Near-term paid delivery and a scalable consumer strategy require different decisions.
+Larger commercial objectives, with explicit conditions and downside cases.
 
+### Target-led comparison
+All amounts in CNY. These are operating targets requiring real distribution, price acceptance and measured costs.
 
-| Dimension | Personal AI | Industry agent | Personal-story visual novels |
-| --- | --- | --- | --- |
-| Product | Everyday personal AI assistant | Professional workflow with bounded delivery | Creation and play of personal works |
-| Payer | Individual user | Institution / brand budget owner | Author |
-| Price hypothesis | CNY 1/month; 10/month; or first month 1 then 10 | 2,980 pilot; 1,980/month | First work free; 69/standard work |
-| Scale objective | 1,000 → 10,000 → 100,000 activated users | First ten paid pilots, then a repeatable prospect pool | Ten samples, then 100 authors |
-| Validation focus | Usefulness, retention, referral K, unit cost | Payment, factual quality, total effort, renewal | Completion, approval, purchase, sharing |
-| Key dependencies | Model/tool costs, system capabilities, reward rules, channels | Professional material, review, customer access | Narrative quality, asset rights, generation cost |
+### Personal AI for everyday life
+| Scenario / stage | Paying customers | Revenue | Total budget | Target economic surplus |
+| --- | --- | --- | --- | --- |
+| Conservative | 30,000 | 30,000.00 | 33,200.00 | -3,200.00 |
+| Target | 100,000 | 100,000.00 | 50,000.00 | 50,000.00 |
+| Stretch | 200,000 | 200,000.00 | 74,000.00 | 126,000.00 |
+| One-million stage | 1,000,000 | 1,000,000.00 | 360,000.00 | 640,000.00 |
+| Ten-million stage | 10,000,000 | 10,000,000.00 | 3,400,000.00 | 6,600,000.00 |
 
-### Recommended discussion order
-**For a mass-market, scalable product strategy, discuss personal AI first.** I bring the ambition and growth model; the team jointly selects tasks, engineering, pricing and investment. Assess it as a useful personal assistant rather than only a reminder, while keeping the 100,000-user target separate from actual evidence.
+### AI agent for medical aesthetics
+| Scenario / stage | Paying customers | Revenue | Total budget | Target economic surplus |
+| --- | --- | --- | --- | --- |
+| Conservative | 4 | 92,800.00 | 108,224.00 | -15,424.00 |
+| Target | 12 | 292,000.00 | 189,360.00 | 102,640.00 |
+| Stretch | 20 | 504,800.00 | 289,184.00 | 215,616.00 |
 
-**For the fastest test of a bounded paid service, pilot the industry agent first.** Its payer and task are more specific, but scalability as a subscription platform remains unproven.
+### Personal-story visual novels
+| Scenario / stage | Paying customers | Revenue | Total budget | Target economic surplus |
+| --- | --- | --- | --- | --- |
+| Conservative | 200 | 59,800.00 | 86,784.00 | -26,984.00 |
+| Target | 1,000 | 299,000.00 | 190,920.00 | 108,080.00 |
+| Stretch | 3,000 | 897,000.00 | 477,760.00 | 419,240.00 |
+### Basis of calculation
+This is a target-led operating plan. Prices, sales, conversion and cost ceilings remain untested. Economic surplus equals fulfilled revenue less the full economic budget, including paid labor, build, marketing, service, processing and tax/refund reserves. Reserves are not final tax settlements. Actual net profit depends on the operating entity, contracts and accounting. Unfulfilled prepayments are deferred rather than counted as profit.
 
-**Keep personal stories as a separate product experiment.** Validate value through limited samples. If repeat demand is weak, per-work service may be appropriate rather than a high-frequency platform.
-
-### Limits on financial comparability
-The updated personal-AI tables model first-month and 90-day cohorts at different scales, excluding common construction. Industry and story tables cover 90-day trials including construction. Their result figures cannot directly rank profitability. Pages 11–12 define each period, cost scope and unknown.
-
-### Resource decision
-Do not assume all three full builds launch at once. First select consumer-scale exploration or near-term paid-delivery validation, then assign a lead direction, owner, budget and review gates. The prior ranking emphasized cash validation; this version incorporates the broader ambition.
-
+Consumer scale: personal AI; near-term high-value paid delivery: industry; creative consumer revenue: stories. Select a lead direction and named resources rather than assuming all budgets are funded together.
 
 
 # Responses to the review requests
 
 A substantive response to the feedback supplied by 最高, with direct links to the relevant pages. Private chat screenshots are not reproduced.
 
-
-### R1 — Market, reach, expenditure, assumptions and sources
-Each proposal separates broad context, a serviceable segment and actual reachable prospects. Personal AI targets 1,000 / 10,000 / 100,000 activations; the industry plan builds a 200-prospect list toward ten pilots; stories use 500 visits toward 100 complete works. Conversion and expenditure figures are hypotheses. Unknown TAM/SAM is marked explicitly; all AI users or all hospitals are not substituted for the relevant market.
-
-See each project's **page 05 market, 11 finance, 12 resources and 17 evidence**. Direct links are provided below.
-
-### R2 — Payer, price, frequency and delivery
-Personal AI charges the user monthly, comparing CNY 1, 10, and first month 1 then 10. The one-time CNY 1 direct-referral reward is a growth experiment with service and reward costs calculated. Industry customers pay 2,980 per pilot or 1,980/month. Story authors pay 69/work; players are free. All proposals specify delivery and allowance limits.
-
-See **page 04 scope, 07 pricing and 08 unit economics**.
-
-### R3 — Acquiring the first ten customers or 100 users
-These are early feedback checkpoints, not growth ceilings. Personal AI starts with 100–200 seed users, pursues 1,000 activations, then progresses toward 10,000 and 100,000 using evidence. Industry and story proposals provide sources, staged funnels, workload and cash budgets.
-
-See **page 09 acquisition, 10 channels/growth and 13 milestones**. Personal-AI page 10 explains the CNY 1 referral mechanism and K.
-
-### R4 — What to test first and why
-For a consumer-scale strategy, prioritize discussing personal AI. For short-term bounded paid delivery, start with the industry agent. For stories, first validate ten complete samples. A single ranking based only on small-cohort cash validation does not express the updated strategic objective. Each proposal includes evidence that can change the decision and conditions to pause.
-
-See **Comparison**, plus each project's **page 14 validation and 18 decisions**.
-
-### R5 — Concrete numbers for a comprehensive review
-Provide a common 18-page structure, evidence categories, six relevant industry/story financial cases and nine updated personal-AI cases: three scales × three prices. Inputs and scripts are downloadable. Cost and period differences remain explicit to prevent false comparisons.
-
-### The collaboration position
-I want to bring a worthwhile product ambition, a discussable growth model and an explicit validation path, while leading product, market work and execution. I want technical choices, prices, resources and implementation to be assessed jointly with the team. This BP supplies the analysis needed for that discussion without deciding engineering unilaterally.
+### R1 — Market and investment
+Personal AI: 100,000/200,000 payers in 90 days; later one million/ten million. Industry: 400 qualified prospects toward 12 implementations. Stories: 50,000 visits toward 1,000 paid authors. Pages 05, 09 and 12 give sources, funnels and full budgets.
+### R2 — Price and fulfillment
+CNY 1 capped personal-AI entry; 19,800 industry implementation plus 6,800/month; 199/699 story tiers. Pages 04, 07 and 08 specify entitlements, costs and value.
+### R3 — Acquisition and marketing
+Early 100/1,000-user checks validate channels rather than limit ambition. Page 09 contains the updated reach, conversion and CAC; page 10 covers referrals/sales and page 13 the 90-day schedule.
+### R4 — Priority and profitability
+Target 50,000 personal-AI, 102,640 industry and 108,080 story economic surplus. These are conditional goals, not guaranteed net profits. Comparison and pages 11–14/18 show what must be true and when to pause.
+### R5 — Reproducible review
+Prompt V3 precedes the revised models. Eleven scenario rows, full cost breakdowns, downloadable inputs and a reproduction script support review. Full CNY 1 rewards are shown as a loss-making alternative, not silently mixed into the capped target.
 
 
 
@@ -1164,18 +923,8 @@ I want to bring a worthwhile product ambition, a discussable growth model and an
 
 These are plans and models for joint decisions, not evidence of actual customers, payments, permissions or committed staffing.
 
+### Basis of calculation
+This is a target-led operating plan. Prices, sales, conversion and cost ceilings remain untested. Economic surplus equals fulfilled revenue less the full economic budget, including paid labor, build, marketing, service, processing and tax/refund reserves. Reserves are not final tax settlements. Actual net profit depends on the operating entity, contracts and accounting. Unfulfilled prepayments are deferred rather than counted as profit.
 
-### Four evidence categories
-**Public fact:** an original source and date. **Planning assumption:** prices, counts, conversion, hours and budgets. **Calculated result:** a formula applied to assumptions. **To validate:** relationships, channels, technology, rights and team resources.
-
-### Financial definitions
-Amounts are in Chinese yuan (CNY) unless USD is explicitly stated. Gross revenue is not cash collected or profit. Direct contribution deducts service and specified channel/loss reserves. Full economic results then account for acquisition, fixed costs and labor. Unquoted taxes, release requirements, additional asset licenses and actual store commissions cannot be presumed zero.
-
-### Version history
-The current BP uses the broad personal-AI positioning and CNY 1/10 models. V5's CNY 29 character assistant, 100-person target and earlier priority ranking are retained only as historical research and superseded for personal AI. The industry and story research continues to support the current proposals.
-
-### Attachments
-Download Prompt V2.1, all current pages, the new personal-AI growth model and reproduction script, industry/story scenarios, and clearly labeled historical research. Historical Chinese originals retain their original language and are not current personal-AI proposals.
-
-### Actual execution status
-This work delivers the proposals, models and static reading website. No external messages, advertising, contracts, payments or referral rewards have been executed. Technical selections and resourcing remain joint team decisions.
+### Current version
+V7 and economics Prompt V3 replace all earlier economics, including the CNY 29 personal assistant and 2,980/1,980 industry pilot. Download the complete new model and script below. Historical files retain their original language and assumptions. No actual sales or campaigns have been executed.
